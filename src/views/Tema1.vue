@@ -5,7 +5,23 @@
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 1
-      h1 Titulo_de_primer_nivel
+      h1 El territorio
+
+    separador
+    #t_1_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
+      h2 1.1 Sistemas que lo integran
+
+    separador
+    #t_1_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
+      h2 1.2 Entidades y niveles territoriales
+
+    separador
+    #t_1_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
+      h2 1.3 Planes por nivel territorial
+
+    separador
+    #t_1_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
+      h2 1.4 Gobernanza y gobernabilidad
       
 </template>
 

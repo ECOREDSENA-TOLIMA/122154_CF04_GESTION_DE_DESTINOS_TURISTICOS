@@ -4,26 +4,22 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
-        span 2
-      h1 Diagnóstico territorial
-    
-    separador
-    #t_2_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 2.1 Generalidades del diagnóstico territorial
+        span 4
+      h1 Marco normativo del turismo en Colombia
 
     separador
-    #t_2_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 2.2 Investigación diagnóstica territorial
+    #t_4_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
+      h2 4.1 Políticas nacionales del turismo en Colombia
 
     separador
-    #t_2_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 2.3 Métodos diagnósticos territoriales
+    #t_4_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
+      h2 4.2 Trazabilidad entre planes de desarrollo turístico en Colombia
 
 </template>
 
 <script>
 export default {
-  name: 'Tema2',
+  name: 'Tema3',
   data: () => ({
     // variables de vue
   }),
