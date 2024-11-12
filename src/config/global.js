@@ -135,7 +135,7 @@ export default {
         ],
       },
       {
-        nombreRuta: 'tema3',
+        nombreRuta: 'tema5',
         numero: '5',
         titulo: 'Informe diagnóstico turístico',
         desarrolloContenidos: true,

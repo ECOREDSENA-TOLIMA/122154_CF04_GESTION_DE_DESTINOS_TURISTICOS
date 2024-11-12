@@ -106,25 +106,25 @@
     .row.mb-5(data-aos="flip-up")
       .col-md-6.col-lg.tarjeta--tabla.p-4
         .row.justify-content-center.mb-3
-          .col-4
+          .col-lg-5.col-sm-4.col-6
             img(src='@/assets/curso/temas/tema3/img07.svg' alt='AvatarTop')
         h4.text-center a.
         p.text-center Maximizar el aprovechamiento de los recursos locales.
       .col-md-6.col-lg.tarjeta--tabla1.p-4
         .row.justify-content-center.mb-3
-          .col-4
+          .col-lg-5.col-sm-4.col-6
             img(src='@/assets/curso/temas/tema3/img08.svg' alt='AvatarTop')
         h4.text-center b.
         p.text-center Mejorar la experiencia del turista.
       .col-md-6.col-lg.tarjeta--tabla.p-4
         .row.justify-content-center.mb-3
-          .col-4
+          .col-lg-5.col-sm-4.col-6
             img(src='@/assets/curso/temas/tema3/img09.svg' alt='AvatarTop')
         h4.text-center c.
         p.text-center Fomentar el desarrollo económico y social de las comunidades locales.
       .col-md-6.col-lg.tarjeta--tabla1.p-4
         .row.justify-content-center.mb-3
-          .col-4
+          .col-lg-5.col-sm-4.col-6
             img(src='@/assets/curso/temas/tema3/img10.svg' alt='AvatarTop')
         h4.text-center d.
         p.text-center Promover un turismo sostenible y responsable.
@@ -336,7 +336,7 @@
               ul.lista-ul
                 li.mb-1 
                   i.lista-ul__vineta
-                  p.mb-0 Desarrollo de una estrategia de marketing para atraer a los visitantes.
+                  p.mb-0 Desarrollo de una estrategia de <em>marketing</em> para atraer a los visitantes.
                 li.mb-1 
                   i.lista-ul__vineta
                   p.mb-0 Utilización de diferentes canales de comunicación (redes sociales, publicidad, etc.).
@@ -406,70 +406,70 @@
       SlyderF(columnas="col-lg-6 col-xl-4")
         .tarjeta.tarjeta--BG07.p-4
           .row.justify-content-center.mb-3
-            .col-6
+            .col-lg-5.col-sm-4.col-6
               img(src='@/assets/curso/temas/tema3/img26.svg' alt='AvatarTop')
           h4.text-center Ley 300 de 1996
           p.text-center También conocida como el Estatuto del Turismo, establece los principios y normas para el desarrollo del turismo en Colombia. Fomenta la inversión en el sector y regula las actividades turísticas para asegurar su sostenibilidad.
 
         .tarjeta.tarjeta--BG07.p-4
           .row.justify-content-center.mb-3
-            .col-6
+            .col-lg-5.col-sm-4.col-6
               img(src='@/assets/curso/temas/tema3/img27.svg' alt='AvatarTop')
           h4.text-center Ley 1101 de 2006
           p.text-center Esta ley complementa la Ley 300, enfocándose en la promoción del turismo en áreas rurales y la inclusión de comunidades en el desarrollo turístico.
 
         .tarjeta.tarjeta--BG07.p-4
           .row.justify-content-center.mb-3
-            .col-6
+            .col-lg-5.col-sm-4.col-6
               img(src='@/assets/curso/temas/tema3/img28.svg' alt='AvatarTop')
           h4.text-center Plan Nacional de Desarrollo (PND)
           p.text-center Establece las directrices para el desarrollo del sector turístico, priorizando el ecoturismo y el turismo cultural, además de garantizar la sostenibilidad ambiental.
           
         .tarjeta.tarjeta--BG07.p-4
           .row.justify-content-center.mb-3
-            .col-6
+            .col-lg-5.col-sm-4.col-6
               img(src='@/assets/curso/temas/tema3/img29.svg' alt='AvatarTop')
           h4.text-center Normativa ambiental 
           p.text-center La legislación ambiental en Colombia, como la Ley 99 de 1993, regula el uso y conservación de los recursos naturales, lo cual es esencial para el diseño de proyectos turísticos.
 
         .tarjeta.tarjeta--BG07.p-4
           .row.justify-content-center.mb-3
-            .col-6
+            .col-lg-5.col-sm-4.col-6
               img(src='@/assets/curso/temas/tema3/img30.svg' alt='AvatarTop')
           h4.text-center Ley 1448 de 2011
           p.text-center Se refiere a la atención y reparación integral a las víctimas del conflicto armado en Colombia, promoviendo el turismo en zonas afectadas como una estrategia de recuperación y desarrollo.
 
         .tarjeta.tarjeta--BG07.p-4
           .row.justify-content-center.mb-3
-            .col-6
+            .col-lg-5.col-sm-4.col-6
               img(src='@/assets/curso/temas/tema3/img31.svg' alt='AvatarTop')
           h4.text-center Normas Urbanísticas y de Ordenamiento Territorial
           p.text-center Cada municipio tiene su propio código de ordenamiento territorial que regula el uso del suelo y el diseño de infraestructuras turísticas.
 
         .tarjeta.tarjeta--BG07.p-4
           .row.justify-content-center.mb-3
-            .col-6
+            .col-lg-5.col-sm-4.col-6
               img(src='@/assets/curso/temas/tema3/img32.svg' alt='AvatarTop')
           h4.text-center Normas de accesibilidad
           p.text-center La Ley 1618 de 2013 establece disposiciones para garantizar la accesibilidad de las personas con discapacidad a los espacios turísticos.
 
         .tarjeta.tarjeta--BG07.p-4
           .row.justify-content-center.mb-3
-            .col-6
+            .col-lg-5.col-sm-4.col-6
               img(src='@/assets/curso/temas/tema3/img33.svg' alt='AvatarTop')
           h4.text-center Certificaciones y Sello de Calidad
           p.text-center El Ministerio de Comercio, Industria y Turismo promueve certificaciones como el Sello de Calidad Turística, que asegura que los servicios turísticos cumplan con estándares de calidad y sostenibilidad.
 
         .tarjeta.tarjeta--BG07.p-4
           .row.justify-content-center.mb-3
-            .col-6
+            .col-lg-5.col-sm-4.col-6
               img(src='@/assets/curso/temas/tema3/img34.svg' alt='AvatarTop')
           h4.text-center Políticas de desarrollo sostenible
           p.text-center Se han implementado políticas para fomentar el turismo sostenible, que integra las dimensiones económica, social y ambiental.
 
         .tarjeta.tarjeta--BG07.p-4
           .row.justify-content-center.mb-3
-            .col-6
+            .col-lg-5.col-sm-4.col-6
               img(src='@/assets/curso/temas/tema3/img35.svg' alt='AvatarTop')
           h4.text-center Planes de manejo
           p.text-center Para áreas protegidas, se requiere la elaboración de planes de manejo que regulen las actividades turísticas y aseguren la conservación de la biodiversidad.
@@ -577,7 +577,7 @@
       .tarjeta--container.row.mb-5
         .col-xl.col-md-6.tarjeta.color-primario.p-5
           .row.justify-content-center.mb-3
-            .col-lg-6.col-md-4.col-5
+            .col-lg-5.col-sm-4.col-6
               figure
                 img(src='@/assets/curso/temas/tema3/img42.png', alt='Imagen decorativa')
             
@@ -586,7 +586,7 @@
 
         .col-xl.col-md-6.tarjeta.color-secundario.p-5
           .row.justify-content-center.mb-3
-            .col-lg-6.col-md-4.col-5
+            .col-lg-5.col-sm-4.col-6
               figure
                 img(src='@/assets/curso/temas/tema3/img43.png', alt='Imagen decorativa')
             
@@ -595,7 +595,7 @@
 
         .col-xl.col-md-6.tarjeta.color-acento-contenido.p-5
           .row.justify-content-center.mb-3
-            .col-lg-6.col-md-4.col-5
+            .col-lg-5.col-sm-4.col-6
               figure
                 img(src='@/assets/curso/temas/tema3/img44.png', alt='Imagen decorativa')
             

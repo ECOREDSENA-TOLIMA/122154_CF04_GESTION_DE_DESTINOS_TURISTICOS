@@ -122,6 +122,39 @@
   background-size: cover
   background-repeat: no-repeat
   background-position: center
+
+.tarjeta.tarjeta--BG08
+  background-image: url("../assets/curso/temas/BG08.svg")
+  background-size: cover 
+  background-repeat: no-repeat
+  background-position: center
+  margin-inline: -3rem !important
+  @media (max-width: $bp-max-sm)
+    margin-inline: -1.5rem !important
+
+.BG09
+  background-image: url("../assets/curso/temas/BG09.svg")
+  background-size: cover
+  background-repeat: no-repeat
+  background-position: center
+
+.tarjeta--BG10
+  background-image: url("../assets/curso/temas/BG10.svg")
+  background-size: cover 
+  background-repeat: no-repeat
+  background-position: center
+  margin-inline: -3rem !important
+  @media (max-width: $bp-max-sm)
+    margin-inline: -1.5rem !important
+
+.tarjeta--BG11
+  background-image: url("../assets/curso/temas/BG11.svg")
+  background-size: cover 
+  background-repeat: no-repeat
+  background-position: center
+  margin-inline: -3rem !important
+  @media (max-width: $bp-max-sm)
+    margin-inline: -1.5rem !important
   
 
 .tarjeta.tarjeta--BG06
@@ -166,7 +199,7 @@
 // comillas cajon de texto
 
 .cajon.cajon
-  background-color: #FFE9DF 
+  background-color: #FFE9DF
 .cajon.cajon1
   background-color: #FEF7EB 
 .cajon-b.color-primario:before
@@ -181,7 +214,7 @@
 .bloque-texto-b.color-primario:before
   background-color: #FFEDC8
 .bloque-texto-f.color-primario:before
-  background-color: #D7F5F7
+  background-color: #FEF7EB
 
 // titulo
 
@@ -243,7 +276,7 @@
 
 //tablas
 .tabla-a thead
-  background-color: #DDF1FF
+  background-color: #FFCE73
 
 .clstabla table
   min-width: 1060px
@@ -336,6 +369,12 @@
   background-color: #fff
 .tabs-b__tab--active:hover
   background-color: #FEEBCF
+.tabs-b__content-item
+  background-color: #FEEBCF
+.tabs-b__tab
+  background-color: #D1E1DD
+.tabs-b__tab--active
+  background-color: #FEEBCF
 .tabs-c__header
   margin-bottom: 0 !important
 .tabs-c.color-acento-botones .tabs-c__tab--active
@@ -364,14 +403,16 @@
     @media (max-width: $bp-max-md)
       bottom: -87%
     @media (max-width: $bp-max-sm)
-      bottom: -85%
+      bottom: -90%
+    @media (max-width: $bp-max-xs)
+      bottom: -84%
     i:last-child
       display: none
   &:hover
     .tarjetas-up_card
-      bottom: -40%
+      bottom: -35%
       @media (max-width: $bp-max-xl)
-        bottom: -20%
+        bottom: -10%
       @media (max-width: $bp-max-lg)
         bottom: -30%
       @media (max-width: $bp-max-md)
@@ -379,7 +420,7 @@
       @media (max-width: $bp-max-sm)
         bottom: -38%
       @media (max-width: $bp-max-xs)
-        bottom: -20%
+        bottom: -27%
     i:first-child
       display: none
     i:last-child
@@ -478,14 +519,14 @@ ul.lista-ul
     right: 0
     width: calc( 100% - 60px)
     height: 100%
-    background-color: #C5E5FE
+    background-color: #FFE9DF
 
   @media (max-width: 1000px)
     padding-right: 2rem
 
 .crd--first, .crd--last
   &::before 
-    background-color: #DDEDF8 !important
+    background-color: #FEF7EB !important
 
 .crd--first
   &::before 
@@ -511,16 +552,9 @@ ul.lista-ul
 .lista-ol--cuadro__vineta
   color: #fff
 li.li-color1
-  color: #0D599B
+  color: #0d599b
 
-// ul.lista-ul
-//   .fas.fa-angle-right
-//     color: #12263F
-
-// viñeta li
-
-// li.li
-//   margin-left: 20px
-//   text-indent: -7.5px
-
+//Color acento botonos especial para tarjeta numerada color
+.color-acento-botones-especial
+  color: #D1E1DD
 
