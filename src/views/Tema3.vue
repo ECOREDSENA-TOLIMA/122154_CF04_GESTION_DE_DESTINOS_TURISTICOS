@@ -106,25 +106,25 @@
     .row.mb-5(data-aos="flip-up")
       .col-md-6.col-lg.tarjeta--tabla.p-4
         .row.justify-content-center.mb-3
-          .col-lg-5.col-sm-4.col-6
+          .col-lg-5.col-5.col-md-6
             img(src='@/assets/curso/temas/tema3/img07.svg' alt='AvatarTop')
         h4.text-center a.
         p.text-center Maximizar el aprovechamiento de los recursos locales.
       .col-md-6.col-lg.tarjeta--tabla1.p-4
         .row.justify-content-center.mb-3
-          .col-lg-5.col-sm-4.col-6
+          .col-lg-5.col-5.col-md-6
             img(src='@/assets/curso/temas/tema3/img08.svg' alt='AvatarTop')
         h4.text-center b.
         p.text-center Mejorar la experiencia del turista.
       .col-md-6.col-lg.tarjeta--tabla.p-4
         .row.justify-content-center.mb-3
-          .col-lg-5.col-sm-4.col-6
+          .col-lg-5.col-5.col-md-6
             img(src='@/assets/curso/temas/tema3/img09.svg' alt='AvatarTop')
         h4.text-center c.
         p.text-center Fomentar el desarrollo económico y social de las comunidades locales.
       .col-md-6.col-lg.tarjeta--tabla1.p-4
         .row.justify-content-center.mb-3
-          .col-lg-5.col-sm-4.col-6
+          .col-lg-5.col-5.col-md-6
             img(src='@/assets/curso/temas/tema3/img10.svg' alt='AvatarTop')
         h4.text-center d.
         p.text-center Promover un turismo sostenible y responsable.
@@ -142,7 +142,7 @@
         .cajon.cajon.color-secundario.p-4.mb-3
           p.mb-0 El diseño turístico promueve la participación activa de las comunidades locales, fomentando su bienestar económico y social. Además, la metodología abarca la evaluación de impactos ambientales y culturales, con el objetivo de minimizar efectos negativos y maximizar beneficios. Finalmente, la implementación de estrategias de <em>marketing</em> y promoción asegura que los destinos se posicionen de manera competitiva en el mercado global. Esta planificación integral contribuye a un desarrollo turístico equilibrado y sostenible.
         p En resumen, la metodología del diseño turístico se refiere a un conjunto de procedimientos, herramientas y enfoques utilizados para desarrollar productos y servicios turísticos que sean atractivos, sostenibles y alineados con las necesidades de los viajeros. Este enfoque incluye varias etapas y componentes clave:
-      .col-lg-5.col-8.order-lg-2.order-1.mb-lg-0.mb-3
+      .col-lg-5.col-8.col-md-6.order-lg-2.order-1.mb-lg-0.mb-3
         figure
           img(src='@/assets/curso/temas/tema3/img11.png', alt='Imagen decorativa')
 
@@ -163,7 +163,7 @@
                   i.lista-ul__vineta
                   p.mb-0 <b>Evaluación de recursos</b>: identificación de los recursos naturales, culturales y humanos en el destino.
           
-            .col-lg-5.col-8.order-lg-1.order-1.mb-lg-0.mb-3
+            .col-lg-5.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-3
               figure
                 img(src='@/assets/curso/temas/tema3/img12.png', alt='Imagen decorativa')
 
@@ -181,7 +181,7 @@
                   i.lista-ul__vineta
                   p.mb-0 <b>Innovación y creatividad</b>: incorporación de elementos novedosos y experiencias únicas.
           
-            .col-lg-5.col-8.order-lg-1.order-1.mb-lg-0.mb-3
+            .col-lg-5.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-3
               figure
                 img(src='@/assets/curso/temas/tema3/img13.png', alt='Imagen decorativa')
 
@@ -199,7 +199,7 @@
                   i.lista-ul__vineta
                   p.mb-0 <b>Sostenibilidad</b>: prácticas sostenibles que reduzcan el impacto ambiental y beneficien a la comunidad local.
           
-            .col-lg-5.col-8.order-lg-1.order-1.mb-lg-0.mb-3
+            .col-lg-5.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-3
               figure
                 img(src='@/assets/curso/temas/tema3/img14.png', alt='Imagen decorativa')
 
@@ -217,7 +217,7 @@
                   i.lista-ul__vineta
                   p.mb-0 <b>Infraestructura</b>: asegurar instalaciones y servicios alineados con el producto diseñado.
           
-            .col-lg-5.col-8.order-lg-1.order-1.mb-lg-0.mb-3
+            .col-lg-5.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-3
               figure
                 img(src='@/assets/curso/temas/tema3/img15.png', alt='Imagen decorativa')
 
@@ -235,7 +235,7 @@
                   i.lista-ul__vineta
                   p.mb-0 <b>Uso de tecnología</b>: plataformas digitales para promoción y reserva del producto.
           
-            .col-lg-5.col-8.order-lg-1.order-1.mb-lg-0.mb-3
+            .col-lg-5.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-3
               figure
                 img(src='@/assets/curso/temas/tema3/img16.png', alt='Imagen decorativa')
 
@@ -253,7 +253,7 @@
                   i.lista-ul__vineta
                   p.mb-0 <b>Ajustes y mejoras</b>: modificaciones basadas en evaluación y cambios de mercado.
           
-            .col-lg-5.col-8.order-lg-1.order-1.mb-lg-0.mb-3
+            .col-lg-5.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-3
               figure
                 img(src='@/assets/curso/temas/tema3/img17.png', alt='Imagen decorativa')
 
@@ -277,7 +277,7 @@
       .col-10
         LineaTiempoE.color-acento-contenido.mb-5
           .row(titulo="01")
-            .col-lg-2.mb-3.mb-lg-0
+            .col-lg-2.mb-3.mb-lg-0.col-6
               figure
                 img.img200(src='@/assets/curso/temas/tema3/img19.svg', alt='Imagen decorativa')
             .col-lg-10.mb-4.mb-lg-0
@@ -294,7 +294,7 @@
                   p.mb-0 Evaluación de la competencia y el entorno turístico.
 
           .row(titulo="02")
-            .col-lg-2.mb-3.mb-lg-0
+            .col-lg-2.mb-3.mb-lg-0.col-6
               figure
                 img.img200(src='@/assets/curso/temas/tema3/img20.svg', alt='Imagen decorativa')
             .col-lg-10.mb-4.mb-lg-0
@@ -311,7 +311,7 @@
                   p.mb-0 Selección de la ubicación y tipo de infraestructura necesaria.
 
           .row(titulo="03")
-            .col-lg-2.mb-3.mb-lg-0
+            .col-lg-2.mb-3.mb-lg-0.col-6
               figure
                 img.img200(src='@/assets/curso/temas/tema3/img21.svg', alt='Imagen decorativa')
             .col-lg-10.mb-4.mb-lg-0
@@ -328,7 +328,7 @@
                   p.mb-0 Creación de itinerarios y paquetes turísticos.
 
           .row(titulo="04")
-            .col-lg-2.mb-3.mb-lg-0
+            .col-lg-2.mb-3.mb-lg-0.col-6
               figure
                 img.img200(src='@/assets/curso/temas/tema3/img22.svg', alt='Imagen decorativa')
             .col-lg-10.mb-4.mb-lg-0
@@ -345,7 +345,7 @@
                   p.mb-0 Creación de una identidad de marca que refleje los valores del destino.
 
           .row(titulo="05")
-            .col-lg-2.mb-3.mb-lg-0
+            .col-lg-2.mb-3.mb-lg-0.col-6
               figure
                 img.img200(src='@/assets/curso/temas/tema3/img23.svg', alt='Imagen decorativa')
             .col-lg-10.mb-4.mb-lg-0
@@ -359,7 +359,7 @@
                   p.mb-0 Capacitación del personal y establecimiento de estándares de servicio.
 
           .row(titulo="06")
-            .col-lg-2.mb-3.mb-lg-0
+            .col-lg-2.mb-3.mb-lg-0.col-6
               figure
                 img.img200(src='@/assets/curso/temas/tema3/img24.svg', alt='Imagen decorativa')
             .col-lg-10.mb-4.mb-lg-0
@@ -376,7 +376,7 @@
                   p.mb-0 Realización de ajustes y mejoras basadas en la retroalimentación.
 
           .row(titulo="07")
-            .col-lg-2.mb-3.mb-lg-0
+            .col-lg-2.mb-3.mb-lg-0.col-6
               figure
                 img.img200(src='@/assets/curso/temas/tema3/img25.svg', alt='Imagen decorativa')
             .col-lg-10.mb-4.mb-lg-0
@@ -577,7 +577,7 @@
       .tarjeta--container.row.mb-5
         .col-xl.col-md-6.tarjeta.color-primario.p-5
           .row.justify-content-center.mb-3
-            .col-lg-5.col-sm-4.col-6
+            .col-lg-5.col-sm-4.col-6.col-md-6
               figure
                 img(src='@/assets/curso/temas/tema3/img42.png', alt='Imagen decorativa')
             
@@ -586,7 +586,7 @@
 
         .col-xl.col-md-6.tarjeta.color-secundario.p-5
           .row.justify-content-center.mb-3
-            .col-lg-5.col-sm-4.col-6
+            .col-lg-5.col-sm-4.col-6.col-md-6
               figure
                 img(src='@/assets/curso/temas/tema3/img43.png', alt='Imagen decorativa')
             
@@ -595,7 +595,7 @@
 
         .col-xl.col-md-6.tarjeta.color-acento-contenido.p-5
           .row.justify-content-center.mb-3
-            .col-lg-5.col-sm-4.col-6
+            .col-lg-5.col-sm-4.col-6.col-md-6
               figure
                 img(src='@/assets/curso/temas/tema3/img44.png', alt='Imagen decorativa')
             

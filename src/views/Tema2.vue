@@ -23,7 +23,7 @@
               span
                 i.fas.fa-caret-up.fa-2x.me-3
                 i.fas.fa-caret-down.fa-2x.me-3
-              h4.mb-0 Diagnóstico físico-ambiental
+              h5.mb-0 Diagnóstico físico-ambiental
             p.text-center.mb-0.px-2 Evalúa las condiciones naturales del territorio, como el clima, la geografía, los suelos, la biodiversidad y los recursos hídricos. También analiza los riesgos ambientales, como desastres naturales o degradación de recursos.
 
       .col-xl-3.col-lg-3.col-sm-10.mb-xl-0.mb-4(data-aos="fade-right")
@@ -35,7 +35,7 @@
               span
                 i.fas.fa-caret-up.fa-2x.me-3
                 i.fas.fa-caret-down.fa-2x.me-3
-              h4.mb-0 Diagnóstico socioeconómico
+              h5.mb-0 Diagnóstico socioeconómico
             p.text-center.mb-0.px-0 Analiza la estructura social y económica, incluyendo aspectos como el empleo, los ingresos, los servicios públicos (salud, educación, transporte, entre otros), las actividades productivas y la distribución de la riqueza.
 
       .col-xl-3.col-lg-3.col-sm-10.mb-xl-0.mb-4(data-aos="fade-right")
@@ -47,7 +47,7 @@
               span
                 i.fas.fa-caret-up.fa-2x.me-3
                 i.fas.fa-caret-down.fa-2x.me-3
-              h4.mb-0 Diagnóstico político-institucional
+              h5.mb-0 Diagnóstico político-institucional
             p.text-center.mb-0.px-2 Estudia el marco legal, las políticas públicas y la capacidad institucional del territorio. Analiza cómo las instituciones locales, regionales o nacionales interactúan con la población y el territorio.
 
       .col-xl-3.col-lg-3.col-sm-10.mb-xl-0.mb-4(data-aos="fade-right")
@@ -59,7 +59,7 @@
               span
                 i.fas.fa-caret-up.fa-2x.me-3
                 i.fas.fa-caret-down.fa-2x.me-3
-              h4.mb-0 Diagnóstico cultural y social
+              h5.mb-0 Diagnóstico cultural y social
             p.text-center.mb-0.px-2 Considera aspectos relacionados con las costumbres, tradiciones, prácticas culturales, la cohesión social, los niveles de participación ciudadana y la identidad local.
 
     p.mb-5(data-aos="fade-left") Los objetivos del diagnóstico territorial se centran en diversos aspectos clave para la comprensión y el desarrollo de un territorio. Estos incluyen:
@@ -249,7 +249,7 @@
             p Integra la información obtenida para crear un diagnóstico que brinde una visión clara de la situación del territorio y ofrezca recomendaciones para su desarrollo.
     
     .row.justify-content-center.mb-5(data-aos="flip-up")
-      .col-sm-9.col-10.movil
+      .col-sm-9.col-md-8.col-10.movil
         figure
           img(src='@/assets/curso/temas/tema2/img14.svg', alt='Imagen decorativa')
 
@@ -258,7 +258,7 @@
     .row.justify-content-center.mb-5(data-aos="flip-up")
       .col-lg-8.col-12
         .row.justify-content-center.align-items-center
-          .col-lg-4.col-6.mb-3
+          .col-lg-4.col-8.col-md-6.mb-3
             figure
               img(src='@/assets/curso/temas/tema2/img15.png', alt='Imagen decorativa')
           .col-lg-8.col-12

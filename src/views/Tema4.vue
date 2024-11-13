@@ -21,7 +21,7 @@
               h4 Ley 300 de 1996 (Ley General de Turismo)
               P Establece los fundamentos para la promoción y desarrollo del turismo, define al turismo como un sector estratégico para el desarrollo económico y social, y regula la oferta, la calidad de los servicios, y la protección del patrimonio cultural y natural. 
           
-            .col-lg-2.col-4.order-lg-1.order-1.mb-lg-0.mb-3
+            .col-lg-2.col-6.col-md-4.order-lg-1.order-1.mb-lg-0.mb-3
               figure
                 img(src='@/assets/curso/temas/tema4/img02.svg', alt='Imagen decorativa')
 
@@ -30,7 +30,7 @@
               h4 Decreto 2067 de 1991
               P Reglamenta la Ley General de Turismo y establece disposiciones para agencias de viajes, operadores turísticos, y otros prestadores de servicios.
           
-            .col-lg-2.col-4.order-lg-1.order-1.mb-lg-0.mb-3
+            .col-lg-2.col-6.col-md-4.order-lg-1.order-1.mb-lg-0.mb-3
               figure
                 img(src='@/assets/curso/temas/tema4/img03.svg', alt='Imagen decorativa')
 
@@ -39,7 +39,7 @@
               h4 Ley 1320 de 1998
               P Promueve el turismo sostenible y define lineamientos para la gestión del patrimonio cultural y natural, además de incluir la responsabilidad social corporativa para las empresas turísticas.
           
-            .col-lg-2.col-4.order-lg-1.order-1.mb-lg-0.mb-3
+            .col-lg-2.col-6.col-md-4.order-lg-1.order-1.mb-lg-0.mb-3
               figure
                 img(src='@/assets/curso/temas/tema4/img04.svg', alt='Imagen decorativa')
 
@@ -48,7 +48,7 @@
               h4 Política Nacional de Turismo
               P Formulada por el Ministerio de Comercio, Industria y Turismo, esta política establece directrices para la sostenibilidad, competitividad y diversificación de la oferta turística.
           
-            .col-lg-2.col-4.order-lg-1.order-1.mb-lg-0.mb-3
+            .col-lg-2.col-6.col-md-4.order-lg-1.order-1.mb-lg-0.mb-3
               figure
                 img(src='@/assets/curso/temas/tema4/img05.svg', alt='Imagen decorativa')
 
@@ -57,7 +57,7 @@
               h4 Decreto 1335 de 2013
               P Aborda la seguridad y salud en el sector turístico, con normativas para la prevención y atención de emergencias.
           
-            .col-lg-2.col-4.order-lg-1.order-1.mb-lg-0.mb-3
+            .col-lg-2.col-6.col-md-4.order-lg-1.order-1.mb-lg-0.mb-3
               figure
                 img(src='@/assets/curso/temas/tema4/img06.svg', alt='Imagen decorativa')
 
@@ -66,7 +66,7 @@
               h4 Ley 1558 de 2012
               P Crea el Sistema Nacional de Turismo y fomenta la infraestructura turística.
           
-            .col-lg-2.col-4.order-lg-1.order-1.mb-lg-0.mb-3
+            .col-lg-2.col-6.col-md-4.order-lg-1.order-1.mb-lg-0.mb-3
               figure
                 img(src='@/assets/curso/temas/tema4/img07.svg', alt='Imagen decorativa')
 
@@ -75,7 +75,7 @@
               h4 Normativa ambiental
               P Varias leyes, como la Ley 99 de 1993 y el Código Nacional de Recursos Naturales, regulan las actividades turísticas para cumplir con la legislación ambiental y proteger los recursos naturales y la biodiversidad del país.
           
-            .col-lg-2.col-4.order-lg-1.order-1.mb-lg-0.mb-3
+            .col-lg-2.col-6.col-md-4.order-lg-1.order-1.mb-lg-0.mb-3
               figure
                 img(src='@/assets/curso/temas/tema4/img08.svg', alt='Imagen decorativa')
 
@@ -84,7 +84,7 @@
               h4 Ley 1101 de 2006
               P Modifica la Ley 300 de 1996 para fortalecer la promoción del turismo y establecer incentivos para la inversión.
           
-            .col-lg-2.col-4.order-lg-1.order-1.mb-lg-0.mb-3
+            .col-lg-2.col-6.col-md-4.order-lg-1.order-1.mb-lg-0.mb-3
               figure
                 img(src='@/assets/curso/temas/tema4/img09.svg', alt='Imagen decorativa')
 
@@ -93,7 +93,7 @@
               h4 Ley 1450 de 2011
               P Define estrategias de competitividad y sostenibilidad en el turismo.
           
-            .col-lg-2.col-4.order-lg-1.order-1.mb-lg-0.mb-3
+            .col-lg-2.col-6.col-md-4.order-lg-1.order-1.mb-lg-0.mb-3
               figure
                 img(src='@/assets/curso/temas/tema4/img10.svg', alt='Imagen decorativa')
 
@@ -102,7 +102,7 @@
               h4 Ley 1672 de 2013
               P Protege los derechos de los consumidores y previene fraudes en la comercialización de servicios turísticos.
           
-            .col-lg-2.col-4.order-lg-1.order-1.mb-lg-0.mb-3
+            .col-lg-2.col-6.col-md-4.order-lg-1.order-1.mb-lg-0.mb-3
               figure
                 img(src='@/assets/curso/temas/tema4/img11.svg', alt='Imagen decorativa')
 
@@ -111,7 +111,7 @@
               h4 Ley 1955 de 2019
               P Propone estrategias para promover el turismo como motor de desarrollo y brinda incentivos para la inversión.
           
-            .col-lg-2.col-4.order-lg-1.order-1.mb-lg-0.mb-3
+            .col-lg-2.col-6.col-md-4.order-lg-1.order-1.mb-lg-0.mb-3
               figure
                 img(src='@/assets/curso/temas/tema4/img12.svg', alt='Imagen decorativa')
 
@@ -120,7 +120,7 @@
               h4 Normativa Local
               P Las entidades territoriales pueden implementar regulaciones adicionales, permitiendo una adaptación del marco normativo nacional a nivel regional.
           
-            .col-lg-2.col-4.order-lg-1.order-1.mb-lg-0.mb-3
+            .col-lg-2.col-6.col-md-4.order-lg-1.order-1.mb-lg-0.mb-3
               figure
                 img(src='@/assets/curso/temas/tema4/img13.svg', alt='Imagen decorativa')
 
@@ -139,7 +139,7 @@
             .cajon.cajon.color-secundario.p-4.mb-3
               p.mb-0 El Plan Sectorial de Turismo 2022-2026, establece metas claras como la generación de empleo y el fomento de la inversión en el sector. Además, promueve la protección del patrimonio natural y cultural y la inclusión de las comunidades locales en la cadena de valor turístico. A través de estas políticas, el gobierno colombiano aspira a que el turismo se convierta en un motor de desarrollo sostenible, contribuyendo significativamente al PIB y al bienestar social del país.
             p Las políticas de turismo en Colombia se enfocan en promover el desarrollo sostenible, la competitividad y la diversificación del sector. El gobierno ha implementado estrategias para atraer turistas internacionales, mejorando la infraestructura, facilitando la conectividad aérea y garantizando la seguridad. Además, se ha priorizado el turismo comunitario, cultural y de naturaleza, protegiendo la biodiversidad y fomentando el desarrollo de áreas rurales y comunidades locales en mejorar y mantener la calidad de la oferta turística. A continuación, se presentan algunos aspectos clave de estas políticas:
-          .col-lg-5.col-8.order-lg-1.order-1.mb-lg-0.mb-3
+          .col-lg-5.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-3
             figure
               img(src='@/assets/curso/temas/tema4/img14.png', alt='Imagen decorativa')
 
@@ -160,7 +160,7 @@
         .cajon.cajon.color-secundario.p-4.mb-3
           p.mb-0 En Colombia, la demanda creciente de destinos culturales, naturales y de aventura ha impulsado la formulación de diversos planes turísticos. Sin embargo, la falta de una trazabilidad adecuada ha ocasionado en ocasiones una ejecución desigual de los proyectos, limitando la eficiencia en la asignación de recursos y la sostenibilidad de las iniciativas. Para mejorar esta trazabilidad, es crucial un enfoque coordinado que involucre a las autoridades locales, el sector privado y las comunidades, alineando las inversiones con los objetivos de desarrollo sostenible. Además, la implementación de sistemas de monitoreo permite evaluar el impacto de los proyectos, identificar éxitos y áreas de mejora, y evitar la duplicación de esfuerzos.
         p En un país como Colombia, donde el turismo es una fuente clave de ingresos, un sistema de trazabilidad sólido consolidaría la confianza en las inversiones y contribuiría a un crecimiento turístico equilibrado, con respeto hacia el medio ambiente y las comunidades locales. Esto es fundamental para posicionar a Colombia como un destino turístico sostenible y competitivo a nivel mundial.
-      .col-lg-5.col-8.order-lg-2.order-1.mb-lg-0.mb-3
+      .col-lg-5.col-8.col-md-6.order-lg-2.order-1.mb-lg-0.mb-3
         figure
           img(src='@/assets/curso/temas/tema4/img25.png', alt='Imagen decorativa')
 
@@ -169,7 +169,7 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
       .col-lg-10.col-12
         .row.justify-content-center.align-items-center
-          .col-lg-5.col-8.order-lg-1.order-1.mb-lg-0.mb-4
+          .col-lg-5.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/temas/tema4/img26.png', alt='Imagen decorativa')     
           .col-lg-7.col-12.mb-md-0.order-lg-2.order-2.mb-lg-0

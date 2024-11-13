@@ -344,7 +344,7 @@
               span
                 i.fas.fa-caret-up.fa-2x.me-3
                 i.fas.fa-caret-down.fa-2x.me-3
-              h4.mb-0 <em>Software</em> de encuestas
+              h5.mb-0 <em>Software</em> de encuestas
             p.text-center.mb-0 Plataformas como Google Forms, SurveyMonkey y Qualtrics permiten crear y distribuir encuestas de manera sencilla, recopilando datos tanto cuantitativos como cualitativos de los turistas.
 
       .col-xl-4.col-lg-3.col-sm-10.mb-xl-0.mb-4(data-aos="fade-right")
@@ -356,7 +356,7 @@
               span
                 i.fas.fa-caret-up.fa-2x.me-3
                 i.fas.fa-caret-down.fa-2x.me-3
-              h4.mb-0 Plataformas de análisis de redes sociales
+              h5.mb-0 Plataformas de análisis de redes sociales
             p.text-center.mb-0 Estas herramientas son esenciales para estudiar reseñas y comentarios en sitios como TripAdvisor, Yelp y redes sociales, lo que proporciona una visión valiosa sobre la percepción del destino y sus servicios.
 
       .col-xl-4.col-lg-3.col-sm-10.mb-xl-0.mb-4(data-aos="fade-right")
@@ -368,7 +368,7 @@
               span
                 i.fas.fa-caret-up.fa-2x.me-3
                 i.fas.fa-caret-down.fa-2x.me-3
-              h4.mb-0 Sistemas de Gestión de Destino (DMS)
+              h5.mb-0 Sistemas de Gestión de Destino (DMS)
             p.text-center.mb-0 Estas plataformas ayudan a gestionar la información turística en tiempo real, desde la recolección de datos hasta la promoción y gestión del destino, facilitando una respuesta rápida a las necesidades del mercado.
 
     p.mb-5(data-aos="fade-left") Con la integración de estas herramientas tecnológicas, los profesionales del turismo pueden mejorar significativamente su capacidad para entender y responder a las necesidades de los turistas, lo que a su vez contribuye al desarrollo sostenible de los destinos turísticos.
@@ -472,7 +472,7 @@
             p La participación de los actores en el diagnóstico del territorio es fundamental para garantizar que el desarrollo turístico sea sostenible, inclusivo y coherente con las características y necesidades locales. Esta participación permite identificar las oportunidades, fortalezas, debilidades y amenazas del destino desde múltiples perspectivas, lo que resulta en una planificación más integral y equitativa. 
             .cajon.cajon.color-secundario.p-4.mb-3
               p.mb-0 En síntesis, la inclusión de los actores del turismo en el diagnóstico del territorio asegura que las iniciativas sean más efectivas, responsables y alineadas con las necesidades locales y la sostenibilidad a largo plazo. A continuación, se destacan algunos de los actores clave y su rol en el proceso.
-          .col-lg-4.col-6.order-lg-2.order-1.mb-lg-0.mb-3
+          .col-lg-4.col-8.col-md-6.order-lg-2.order-1.mb-lg-0.mb-3
             figure
               img(src='@/assets/curso/temas/tema5/img18.png', alt='Imagen decorativa')
 
@@ -557,7 +557,7 @@
           .col-lg-8.col-12.order-lg-1.order-2 
             p Por otro lado, la oferta turística incluye los recursos, infraestructuras y servicios disponibles en el territorio, como alojamientos, restaurantes, atractivos naturales y culturales, y actividades recreativas. El análisis de la oferta permite identificar tanto las fortalezas del destino como las áreas que requieren mejoras en infraestructura, calidad de servicio o sostenibilidad.
             p Un diagnóstico integral de la oferta y demanda turística es crucial para lograr un equilibrio entre ambas, maximizando la satisfacción del turista y promoviendo el desarrollo económico local, la conservación del entorno y la identidad cultural del destino. A continuación, se detallan los principales puntos a tener en cuenta en este tipo de diagnóstico:
-          .col-lg-4.col-6.order-lg-2.order-1.mb-lg-0.mb-3
+          .col-lg-4.col-8.col-md-6.order-lg-2.order-1.mb-lg-0.mb-3
             figure
               img(src='@/assets/curso/temas/tema5/img22.png', alt='Imagen decorativa')
 
@@ -568,7 +568,7 @@
     p.mb-5(data-aos="fade-left") La demanda turística se compone de los visitantes actuales y potenciales del destino. Este análisis debe enfocarse en varios aspectos clave:
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
-      .col-lg-3.col-5.order-lg-1.order-1.mb-lg-0.mb-3
+      .col-lg-3.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-4
         figure
           img(src='@/assets/curso/temas/tema5/img23.png', alt='Imagen decorativa')
       .col-lg-9.col-12.order-lg-1.order-2 
@@ -621,7 +621,7 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
       .col-lg-10.col-12
         .row.justify-content-center.align-items-center
-          .col-lg-5.col-8.order-lg-1.order-1.mb-lg-0.mb-4
+          .col-lg-5.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/temas/tema5/img24.png', alt='Imagen decorativa')     
           .col-lg-7.col-12.mb-md-0.order-lg-2.order-2.mb-lg-0
@@ -675,7 +675,7 @@
       .tarjeta--container.row.mb-5
         .col-xl.col-md-6.tarjeta.color-primario.p-5
           .row.justify-content-center.mb-3
-            .col-lg-5.col-sm-4.col-6
+            .col-lg-5.col-md-6.col-sm-4.col-6
               figure
                 img(src='@/assets/curso/temas/tema5/img25.svg', alt='Imagen decorativa')
             
@@ -684,7 +684,7 @@
 
         .col-xl.col-md-6.tarjeta.color-secundario.p-5
           .row.justify-content-center.mb-3
-            .col-lg-5.col-sm-4.col-6
+            .col-lg-5.col-md-6.col-sm-4.col-6
               figure
                 img(src='@/assets/curso/temas/tema5/img26.svg', alt='Imagen decorativa')
             
@@ -693,7 +693,7 @@
 
         .col-xl.col-md-6.tarjeta.color-acento-contenido.p-5
           .row.justify-content-center.mb-3
-            .col-lg-5.col-sm-4.col-6
+            .col-lg-5.col-md-6.col-sm-4.col-6
               figure
                 img(src='@/assets/curso/temas/tema5/img27.svg', alt='Imagen decorativa')
             
@@ -709,7 +709,7 @@
     .row.justify-content-center.mb-5(data-aos="flip-up")
       .col-lg-8.col-12
         .row.justify-content-center.align-items-center
-          .col-lg-4.col-6.mb-3
+          .col-lg-4.col-md-6.col-8.mb-3
             figure
               img(src='@/assets/curso/temas/tema5/img28.png', alt='Imagen decorativa')
           .col-lg-8.col-12
@@ -757,7 +757,7 @@
                 i.lista-ul__vineta
                 p.mb-0 <b>Variables clave</b>: oferta turística (alojamiento, restauración y actividades), demanda turística, accesibilidad, recursos naturales y culturales, e infraestructura.
         
-          .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-3
+          .col-lg-5.col-10.col-md-8.order-lg-2.order-1.mb-lg-0.mb-3
             figure
               img(src='@/assets/curso/temas/tema5/img29.png', alt='Imagen decorativa')
 
@@ -809,7 +809,7 @@
                 i.lista-ul__vineta
                 p.mb-0 Proximidad a mercados emisores de turistas.
         
-          .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-3
+          .col-lg-5.col-10.col-md-8.order-lg-2.order-1.mb-lg-0.mb-3
             figure
               img(src='@/assets/curso/temas/tema5/img30.png', alt='Imagen decorativa')
 
@@ -830,7 +830,7 @@
                 i.lista-ul__vineta
                 p.mb-0 <b>Amenazas</b>: riesgos o situaciones que podrían afectar el desarrollo (degradación ambiental, conflictos sociales o competencia de otros destinos).
         
-          .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-3
+          .col-lg-6.col-10.col-md-8.order-lg-2.order-1.mb-lg-0.mb-3
             figure
               img(src='@/assets/curso/temas/tema5/img31.png', alt='Imagen decorativa')
 
@@ -854,7 +854,7 @@
                 i.lista-ul__vineta
                 p.mb-0 <b>Infraestructura y accesibilidad</b>: propuestas para mejorar la conectividad y las infraestructuras del territorio.
         
-          .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-3
+          .col-lg-6.col-10.col-md-8.order-lg-2.order-1.mb-lg-0.mb-3
             figure
               img(src='@/assets/curso/temas/tema5/img32.png', alt='Imagen decorativa')
 
@@ -872,7 +872,7 @@
                 i.lista-ul__vineta
                 p.mb-0 Recomendaciones para una gobernanza turística efectiva y la coordinación entre actores locales.
         
-          .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-3
+          .col-lg-6.col-10.col-md-8.order-lg-2.order-1.mb-lg-0.mb-3
             figure
               img(src='@/assets/curso/temas/tema5/img33.png', alt='Imagen decorativa')
 
@@ -890,7 +890,7 @@
                 i.lista-ul__vineta
                 p.mb-0 <b>Presentaciones orales</b>: para informar a los actores clave (autoridades locales, operadores turísticos y comunidad).
         
-          .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-3
+          .col-lg-6.col-10.col-md-8.order-lg-2.order-1.mb-lg-0.mb-3
             figure
               img(src='@/assets/curso/temas/tema5/img34.png', alt='Imagen decorativa')
 

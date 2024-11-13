@@ -28,7 +28,7 @@
       h4.mb-0 ¿Qué son los sistemas territoriales?
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
-      .col-lg-10.col-12
+      .col-lg-10.col-12.col-md-10
         .row.justify-content-center.align-items-center
           .col-lg-8.col-12.order-lg-2.order-2 
             p.mb-3 Los sistemas territoriales son estructuras complejas que integran actores, políticas, procesos y tecnologías, orientados a la gestión de información ambiental y regional. Estos sistemas facilitan la generación de conocimiento, la toma de decisiones, la educación y la participación social, con el objetivo de promover el desarrollo sostenible en un contexto subnacional o regional. 
@@ -51,7 +51,7 @@
     .row.justify-content-center(data-aos="flip-up")
       .col-lg-11.col-12
         .row.justify-content-center
-          .col-lg-2.col-4.mb-5
+          .col-lg-2.col-6.mb-5.col-md-5
             figure
               img(src='@/assets/curso/temas/tema1/img03.png', alt='Imagen decorativa')
           .col-lg-9.col-12
@@ -143,7 +143,7 @@
       .tarjeta--container.row.mb-5
         .col-xl.col-md-6.tarjeta.color-primario.p-5
           .row.justify-content-center.mb-3
-            .col-lg-4.col-md-4.col-5
+            .col-lg-4.col-6
               figure
                 img(src='@/assets/curso/temas/tema1/img17.svg', alt='Imagen decorativa')
             
@@ -152,7 +152,7 @@
 
         .col-xl.col-md-6.tarjeta.color-secundario.p-5
           .row.justify-content-center.mb-3
-            .col-lg-4.col-md-4.col-5
+            .col-lg-4.col-6
               figure
                 img(src='@/assets/curso/temas/tema1/img18.svg', alt='Imagen decorativa')
             
