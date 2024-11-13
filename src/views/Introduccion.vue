@@ -20,7 +20,7 @@
             .bloque-texto-b.color-primario.p-3
               .bloque-texto-b__texto
                 p.mb-0 El marco normativo del turismo abarca el conjunto de leyes, reglamentos y políticas que regulan las actividades turísticas en un territorio. Este marco es esencial para garantizar que el desarrollo turístico se realice de manera ordenada, respetuosa con el medio ambiente y beneficiosa para la comunidad local. Comprender las normativas vigentes es crucial para realizar un diagnóstico adecuado y proponer acciones que se alineen con los principios legales y éticos.
-          .col-lg-3.col-8.order-lg-1.order-1.mb-lg-0.mb-3
+          .col-lg-3.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/temas/intro/img01.png', alt='Imagen decorativa')
 

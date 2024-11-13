@@ -267,7 +267,7 @@
       .col-lg-7.col-12.order-lg-1.order-2
         .cajon.cajon.color-secundario.p-4.mb-3
           p.mb-0 El diseño turístico abarca varias etapas clave que garantizan el éxito de un destino o producto. La primera etapa es la investigación, donde se analizan las características del destino, el mercado objetivo y las tendencias. La segunda etapa es la planificación, en la que se definen los objetivos, recursos y estrategias, y se crean itinerarios o experiencias ajustadas a las necesidades de los turistas. La tercera etapa es la implementación, donde se ponen en marcha los planes, se desarrollan infraestructuras y se promueve el destino. Finalmente, la evaluación y control asegura que los objetivos se cumplan, ajustando aspectos según las necesidades y los cambios del mercado. Un diseño turístico bien estructurado garantiza experiencias satisfactorias y el desarrollo sostenible del destino, respetando el entorno y la cultura local.
-      .col-lg-5.col-8.order-lg-2.order-1.mb-lg-0.mb-3
+      .col-lg-5.col-8.col-md-6.order-lg-2.order-1.mb-lg-0.mb-3
         figure
           img(src='@/assets/curso/temas/tema3/img18.png', alt='Imagen decorativa')
 
@@ -567,7 +567,7 @@
               p(numero="4" titulo="Bases de datos turísticas") Repositorios de información que contienen datos sobre infraestructura turística, alojamiento, y atracciones.
 
               p(numero="4" titulo="Plataformas de redes sociales") Utilización de herramientas de análisis de datos para extraer tendencias y opiniones sobre destinos turísticos.
-          .col-lg-6.col-8.order-lg-2.order-1.mb-lg-0.mb-4
+          .col-lg-6.col-8.col-md-6.order-lg-2.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/temas/tema3/img41.png', alt='Imagen decorativa')
 

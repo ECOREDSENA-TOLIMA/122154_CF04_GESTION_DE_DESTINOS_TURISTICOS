@@ -33,7 +33,7 @@
           .col-lg-8.col-12.order-lg-2.order-2 
             p.mb-3 Los sistemas territoriales son estructuras complejas que integran actores, políticas, procesos y tecnologías, orientados a la gestión de información ambiental y regional. Estos sistemas facilitan la generación de conocimiento, la toma de decisiones, la educación y la participación social, con el objetivo de promover el desarrollo sostenible en un contexto subnacional o regional. 
             p.mb-0 Dichos sistemas abarcan tanto los componentes físicos (como el aire, el clima, los suelos y los recursos naturales) como los componentes sociales (incluyendo la población, las infraestructuras, las actividades económicas y las instituciones). Estos elementos interactúan dentro de un espacio geográfico determinado, buscando una gestión integrada que permita un desarrollo equilibrado entre los aspectos ambientales, sociales y económicos.
-          .col-lg-4.col-8.order-lg-1.order-1.mb-lg-0.mb-3
+          .col-lg-4.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-3
             figure
               img(src='@/assets/curso/temas/tema1/img02.png', alt='Imagen decorativa')
 
@@ -82,7 +82,7 @@
         .cajon.cajon.color-secundario.p-4.mb-3
           p.mb-0  Las entidades territoriales tienen competencias específicas en administración, planificación y desarrollo dentro de sus respectivas jurisdicciones. Los departamentos, municipios y distritos cuentan con autonomía administrativa y financiera, lo que les permite implementar políticas públicas acordes a sus necesidades locales.
         p En el contexto turístico, estas entidades juegan un papel fundamental en la promoción y gestión de destinos, así como en la regulación de actividades que impactan el desarrollo sostenible del turismo en sus territorios. La planificación de proyectos turísticos, la gestión de recursos naturales y culturales, y el control del impacto ambiental y social de la actividad turística son tareas clave que recaen en las autoridades territoriales, en coordinación con el gobierno nacional y los actores del sector privado.
-      .col-lg-5.col-8.order-lg-2.order-1.mb-lg-0.mb-3
+      .col-lg-5.col-8.col-md-6.order-lg-2.order-1.mb-lg-0.mb-3
         figure
           img(src='@/assets/curso/temas/tema1/img06.png', alt='Imagen decorativa')
 
