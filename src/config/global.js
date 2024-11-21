@@ -274,7 +274,7 @@ export default {
         'las personas, organizaciones y entidades que desempeñan un papel en la industria del turismo, interactuando y colaborando para ofrecer experiencias turísticas, Cada uno de estos actores juega un papel crucial en la dinámica del turismo, y su interacción determina el éxito y la sostenibilidad de la industria.',
     },
     {
-      termino: 'Diagnóstico turístico:',
+      termino: 'Diagnóstico turístico',
       significado:
         'proceso de evaluación que busca analizar y comprender las características, recursos y condiciones de un destino turístico. Su objetivo es identificar tanto las fortalezas como las debilidades del lugar, así como las oportunidades y amenazas que pueden influir en su desarrollo turístico.',
     },
@@ -361,7 +361,7 @@ export default {
         'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=48321',
     },
     {
-      referencia: 'Función Pública. (2013a). Decreto 1335 de 2013.',
+      referencia: 'Función Pública. (2013a). Decreto 1335 de 2015.',
       link:
         'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=74005',
     },

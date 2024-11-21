@@ -507,7 +507,7 @@
                 p.mb-0 <b>Cuestionarios estructurados</b>: se utilizan para recoger datos cuantitativos sobre la satisfacción del turista, preferencias y comportamientos.
               li.mb-3 
                 i.lista-ul__vineta
-                p.mb-0 <b>Encuestas en línea</b>: Facilitan la recolección de datos de manera mas rápida y económica.
+                p.mb-0 <b>Encuestas en línea</b>: facilitan la recolección de datos de manera mas rápida y económica.
 
       .py-3.py-md-4(titulo="Entrevistas")
         .row.justify-content-center.p-4

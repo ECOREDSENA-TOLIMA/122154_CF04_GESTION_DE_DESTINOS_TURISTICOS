@@ -14,7 +14,7 @@
     p.mb-5(data-aos="fade-left") El diagnóstico territorial es un proceso de análisis exhaustivo que tiene como objetivo evaluar las características y condiciones de un territorio en términos sociales, económicos, ambientales, y culturales. Este tipo de diagnóstico se utiliza para comprender las dinámicas de un área específica, identificar problemas, potencialidades, riesgos, y oportunidades, y así facilitar la toma de decisiones en la planificación del desarrollo territorial. A continuación, se describen los componentes principales del diagnóstico territorial: 
 
     .row.justify-content-center.mb-5(data-aos="flip-up")
-      .col-xl-3.col-lg-3.col-sm-10.mb-xl-0.mb-4(data-aos="fade-right")
+      .col-xl-3.col-lg-3.col-sm-10.col-md-9.mb-xl-0.mb-4(data-aos="fade-right")
         .tarjetas-up(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
           img(src='@/assets/curso/temas/tema2/img02.svg' alt="Imagen decorativa")
@@ -26,7 +26,7 @@
               h5.mb-0 Diagnóstico físico-ambiental
             p.text-center.mb-0.px-2 Evalúa las condiciones naturales del territorio, como el clima, la geografía, los suelos, la biodiversidad y los recursos hídricos. También analiza los riesgos ambientales, como desastres naturales o degradación de recursos.
 
-      .col-xl-3.col-lg-3.col-sm-10.mb-xl-0.mb-4(data-aos="fade-right")
+      .col-xl-3.col-lg-3.col-sm-10.col-md-9.mb-xl-0.mb-4(data-aos="fade-right")
         .tarjetas-up(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
           img(src='@/assets/curso/temas/tema2/img03.svg' alt="Imagen decorativa")
@@ -36,9 +36,9 @@
                 i.fas.fa-caret-up.fa-2x.me-3
                 i.fas.fa-caret-down.fa-2x.me-3
               h5.mb-0 Diagnóstico socioeconómico
-            p.text-center.mb-0.px-0 Analiza la estructura social y económica, incluyendo aspectos como el empleo, los ingresos, los servicios públicos (salud, educación, transporte, entre otros), las actividades productivas y la distribución de la riqueza.
+            p.text-center.mb-0.px-2 Analiza la estructura social y económica, incluyendo aspectos como el empleo, los ingresos, los servicios públicos (salud, educación, transporte, entre otros), las actividades productivas y la distribución de la riqueza.
 
-      .col-xl-3.col-lg-3.col-sm-10.mb-xl-0.mb-4(data-aos="fade-right")
+      .col-xl-3.col-lg-3.col-sm-10.col-md-9.mb-xl-0.mb-4(data-aos="fade-right")
         .tarjetas-up(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
           img(src='@/assets/curso/temas/tema2/img04.svg' alt="Imagen decorativa")
@@ -50,7 +50,7 @@
               h5.mb-0 Diagnóstico político-institucional
             p.text-center.mb-0.px-2 Estudia el marco legal, las políticas públicas y la capacidad institucional del territorio. Analiza cómo las instituciones locales, regionales o nacionales interactúan con la población y el territorio.
 
-      .col-xl-3.col-lg-3.col-sm-10.mb-xl-0.mb-4(data-aos="fade-right")
+      .col-xl-3.col-lg-3.col-sm-10.col-md-9.mb-xl-0.mb-4(data-aos="fade-right")
         .tarjetas-up(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
           img(src='@/assets/curso/temas/tema2/img05.svg' alt="Imagen decorativa")
@@ -301,7 +301,7 @@
                 th Método
                 th Descripción
                 th Aplicación
-            tbody.text-center
+            tbody
               tr
                 td.text-bold Análisis FODA (Fortalezas, Oportunidades, Debilidades y Amenazas)
                 td Es un método utilizado para identificar las fortalezas internas del territorio, así como sus debilidades. también se analizan las oportunidades y amenazas externas.

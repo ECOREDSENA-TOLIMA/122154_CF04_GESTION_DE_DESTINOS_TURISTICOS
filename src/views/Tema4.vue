@@ -54,7 +54,7 @@
 
           .row.justify-content-center.align-items-center(titulo="5")
             .col-lg-9.col-12.order-lg-2.order-2
-              h4 Decreto 1335 de 2013
+              h4 Decreto 1335 de 2015
               P Aborda la seguridad y salud en el sector turístico, con normativas para la prevención y atención de emergencias.
           
             .col-lg-2.col-6.col-md-4.order-lg-1.order-1.mb-lg-0.mb-3

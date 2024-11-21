@@ -148,7 +148,8 @@
                 img(src='@/assets/curso/temas/tema1/img17.svg', alt='Imagen decorativa')
             
           h4.text-center Gobernanza
-          p Se refiere a los procesos y estructuras mediante los cuales las instituciones públicas, el sector privado y la sociedad civil interactúan y toman decisiones que afectan el bienestar colectivo. La gobernanza promueve principios de transparencia, participación ciudadana y rendición de cuentas, aspectos clave en la búsqueda del bien común. En Colombia, los esfuerzos por mejorar la gobernanza se han materializado en reformas que intentan combatir la corrupción, fortalecer la institucionalidad y mejorar la eficiencia del Estado. Sin embargo, este proceso enfrenta desafíos importantes debido a la desigualdad social, la falta de confianza en las instituciones y la debilidad del control estatal en algunas zonas rurales y periféricas.
+          p Se refiere a los procesos y estructuras mediante los cuales las instituciones públicas, el sector privado y la sociedad civil interactúan y toman decisiones que afectan el bienestar colectivo. La gobernanza promueve principios de transparencia, participación ciudadana y rendición de cuentas, aspectos clave en la búsqueda del bien común. 
+          p En Colombia, los esfuerzos por mejorar la gobernanza se han materializado en reformas que intentan combatir la corrupción, fortalecer la institucionalidad y mejorar la eficiencia del Estado. Sin embargo, este proceso enfrenta desafíos importantes debido a la desigualdad social, la falta de confianza en las instituciones y la debilidad del control estatal en algunas zonas rurales y periféricas.
 
         .col-xl.col-md-6.tarjeta.color-secundario.p-5
           .row.justify-content-center.mb-3
@@ -157,7 +158,8 @@
                 img(src='@/assets/curso/temas/tema1/img18.svg', alt='Imagen decorativa')
             
           h4.text-center Gobernabilidad
-          p Hace referencia a la capacidad del gobierno para implementar políticas, mantener el orden y atender las demandas sociales de manera eficaz y legítima. En Colombia, la gobernabilidad ha estado históricamente afectada por factores como el conflicto armado, la presencia de actores ilegales y la fragmentación del control territorial. Si bien los acuerdos de paz con las FARC representaron un avance significativo en la consolidación de la paz, la gobernabilidad sigue siendo un reto en diversas áreas rurales del país, donde el control estatal es limitado y persisten dinámicas de violencia y exclusión. La estabilidad y efectividad del gobierno en estas zonas son claves para mejorar la gobernabilidad en todo el territorio nacional.
+          p Hace referencia a la capacidad del gobierno para implementar políticas, mantener el orden y atender las demandas sociales de manera eficaz y legítima. 
+          p En Colombia, la gobernabilidad ha estado históricamente afectada por factores como el conflicto armado, la presencia de actores ilegales y la fragmentación del control territorial. Si bien los acuerdos de paz con las FARC representaron un avance significativo en la consolidación de la paz, la gobernabilidad sigue siendo un reto en diversas áreas rurales del país, donde el control estatal es limitado y persisten dinámicas de violencia y exclusión. La estabilidad y efectividad del gobierno en estas zonas son claves para mejorar la gobernabilidad en todo el territorio nacional.
 
     .titulo.mb-5(data-aos="flip-up")
       img(src='@/assets/curso/temas/ico.svg', alt='Imagen decorativa')

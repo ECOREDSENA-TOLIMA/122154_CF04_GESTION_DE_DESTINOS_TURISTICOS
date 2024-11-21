@@ -41,7 +41,7 @@
                 th Descripción
             tbody
               tr
-                td.text-bold.text-center Introducción
+                td.text-bold Introducción
                 td 
                   ul.lista-ul
                     li.mb-0 
@@ -54,7 +54,7 @@
                       i.lista-ul__vineta
                       p.mb-0 <b>Metodología</b>: describir los métodos y técnicas utilizados para recopilar la información (entrevistas, encuestas, observación directa, análisis de datos secundarios, etc.).
               tr
-                td.text-bold.text-center Descripción del destino
+                td.text-bold Descripción del destino
                 td 
                   ul.lista-ul
                     li.mb-0 
@@ -67,7 +67,7 @@
                       i.lista-ul__vineta
                       p.mb-0 <b>Características geográficas y climáticas</b>: describir el entorno natural, relieve, clima, biodiversidad, entre otros.
               tr
-                td.text-bold.text-center Oferta turística 
+                td.text-bold Oferta turística 
                 td 
                   ul.lista-ul
                     li.mb-0 
@@ -80,7 +80,7 @@
                       i.lista-ul__vineta
                       p.mb-0 <b>Actividades turísticas</b>: listar y evaluar las actividades disponibles para los turistas, como ecoturismo, deportes, turismo cultural, entre otros.
               tr
-                td.text-bold.text-center Demanda turística
+                td.text-bold Demanda turística
                 td 
                   ul.lista-ul
                     li.mb-0 
@@ -93,7 +93,7 @@
                       i.lista-ul__vineta
                       p.mb-0 <b>Tendencias de demanda</b>: análisis de las tendencias actuales y potenciales en el número de visitantes.
               tr
-                td.text-bold.text-center Análisis FODA
+                td.text-bold Análisis FODA
                 td 
                   ul.lista-ul
                     li.mb-0 
@@ -109,7 +109,7 @@
                       i.lista-ul__vineta
                       p.mb-0 <b>TAmenazas</b>: factores externos que podrían afectar negativamente al turismo en el área.
               tr
-                td.text-bold.text-center Análisis socioeconómico
+                td.text-bold Análisis socioeconómico
                 td 
                   ul.lista-ul
                     li.mb-0 
@@ -122,7 +122,7 @@
                       i.lista-ul__vineta
                       p.mb-0 <b>Sostenibilidad</b>: evaluación de cómo el turismo afecta al medio ambiente y la cultura local. Estrategias de turismo sostenible.
               tr
-                td.text-bold.text-center Competencia
+                td.text-bold Competencia
                 td 
                   ul.lista-ul
                     li.mb-0 
@@ -132,7 +132,7 @@
                       i.lista-ul__vineta
                       p.mb-0 <b>Posicionamiento</b>: análisis del lugar que ocupa el destino en comparación con sus competidores.
               tr
-                td.text-bold.text-center Conclusiones y recomendaciones 
+                td.text-bold Conclusiones y recomendaciones 
                 td 
                   ul.lista-ul
                     li.mb-0 
@@ -142,14 +142,14 @@
                       i.lista-ul__vineta
                       p.mb-0 <b>Recomendaciones</b>: sugerencias para mejorar la oferta turística, infraestructura, <em>marketing</em>, sostenibilidad, entre otros aspectos.
               tr
-                td.text-bold.text-center Plan de acción (opcional)
+                td.text-bold Plan de acción (opcional)
                 td 
                   ul.lista-ul
                     li.mb-0 
                       i.lista-ul__vineta
                       p.mb-0 Desarrollo de un plan estratégico con medidas concretas a tomar a corto, mediano y largo plazo para mejorar la competitividad del destino.
               tr
-                td.text-bold.text-center Fuentes
+                td.text-bold Fuentes
                 td 
                   ul.lista-ul
                     li.mb-0 
@@ -345,7 +345,7 @@
                 i.fas.fa-caret-up.fa-2x.me-3
                 i.fas.fa-caret-down.fa-2x.me-3
               h5.mb-0 <em>Software</em> de encuestas
-            p.text-center.mb-0 Plataformas como Google Forms, SurveyMonkey y Qualtrics permiten crear y distribuir encuestas de manera sencilla, recopilando datos tanto cuantitativos como cualitativos de los turistas.
+            p.text-center.mb-0.px-3 Plataformas como Google Forms, SurveyMonkey y Qualtrics permiten crear y distribuir encuestas de manera sencilla, recopilando datos tanto cuantitativos como cualitativos de los turistas.
 
       .col-xl-4.col-lg-3.col-sm-10.mb-xl-0.mb-4(data-aos="fade-right")
         .tarjetas-up(@mouseover="mostrarIndicador = false")
@@ -357,7 +357,7 @@
                 i.fas.fa-caret-up.fa-2x.me-3
                 i.fas.fa-caret-down.fa-2x.me-3
               h5.mb-0 Plataformas de análisis de redes sociales
-            p.text-center.mb-0 Estas herramientas son esenciales para estudiar reseñas y comentarios en sitios como TripAdvisor, Yelp y redes sociales, lo que proporciona una visión valiosa sobre la percepción del destino y sus servicios.
+            p.text-center.mb-0.px-3 Estas herramientas son esenciales para estudiar reseñas y comentarios en sitios como TripAdvisor, Yelp y redes sociales, lo que proporciona una visión valiosa sobre la percepción del destino y sus servicios.
 
       .col-xl-4.col-lg-3.col-sm-10.mb-xl-0.mb-4(data-aos="fade-right")
         .tarjetas-up(@mouseover="mostrarIndicador = false")
@@ -369,7 +369,7 @@
                 i.fas.fa-caret-up.fa-2x.me-3
                 i.fas.fa-caret-down.fa-2x.me-3
               h5.mb-0 Sistemas de Gestión de Destino (DMS)
-            p.text-center.mb-0 Estas plataformas ayudan a gestionar la información turística en tiempo real, desde la recolección de datos hasta la promoción y gestión del destino, facilitando una respuesta rápida a las necesidades del mercado.
+            p.text-center.mb-0.px-3 Estas plataformas ayudan a gestionar la información turística en tiempo real, desde la recolección de datos hasta la promoción y gestión del destino, facilitando una respuesta rápida a las necesidades del mercado.
 
     p.mb-5(data-aos="fade-left") Con la integración de estas herramientas tecnológicas, los profesionales del turismo pueden mejorar significativamente su capacidad para entender y responder a las necesidades de los turistas, lo que a su vez contribuye al desarrollo sostenible de los destinos turísticos.
 
@@ -402,10 +402,10 @@
                 th Descripción
             tbody
               tr
-                td.text-bold.text-center Definición de objetivos
+                td.text-bold Definición de objetivos
                 td Establecer qué tipo de información se necesita y con qué propósito (mejora de servicios, promoción turística, análisis del comportamiento de los turistas, etc.).                  
               tr
-                td.text-bold.text-center Selección de metodologías
+                td.text-bold Selección de metodologías
                 td 
                   p.text-bold.mb-3 Elegir entre diferentes métodos de recolección de datos:
                   ul.lista-ul
@@ -425,10 +425,10 @@
                       i.lista-ul__vineta
                       p.mb-0 <b>Análisis de documentos y fuentes locales</b>: revisión de documentos de instituciones turísticas, estadísticas locales, y materiales promocionales.
               tr
-                td.text-bold.text-center Selección del lugar de trabajo
+                td.text-bold Selección del lugar de trabajo
                 td El lugar o los lugares a estudiar dependerán del objetivo del proyecto. Puede ser una región turística, una ciudad en particular, un sitio específico (como un parque natural o una playa), o un área más extensa.
               tr
-                td.text-bold.text-center Recolección de datos en el terreno
+                td.text-bold Recolección de datos en el terreno
                 td 
                   p.mb-3 Durante la visita al lugar, es importante llevar una planificación detallada y ajustarse a ella para no omitir ningún aspecto relevante. Las actividades incluyen:
                   ul.lista-ul
@@ -445,15 +445,15 @@
                       i.lista-ul__vineta
                       p.mb-0 Observación de la infraestructura turística (hoteles, restaurantes, centros de información, transporte, entre otros).
               tr
-                td.text-bold.text-center Registro y organización de los datos
+                td.text-bold Registro y organización de los datos
                 td 
                   p.mb-3 Es esencial organizar la información de manera clara y sistemática. Para las encuestas, puede ser útil utilizar <b><em>software</em></b> para la creación de bases de datos (como Excel, Google Sheets o herramientas especializadas en análisis de encuestas).
                   p.mb-0 Las entrevistas pueden ser transcritas o grabadas, y los materiales visuales (fotos o videos) deben etiquetarse adecuadamente.
               tr
-                td.text-bold.text-center Análisis de los datos
+                td.text-bold Análisis de los datos
                 td Después de la recolección, se analizan los datos para identificar patrones, fortalezas y áreas de mejora en el destino turístico. Los análisis pueden ser cualitativos (análisis de contenido) o cuantitativos (estadísticas descriptivas).
               tr
-                td.text-bold.text-center Elaboración de Informes
+                td.text-bold Elaboración de Informes
                 td El último paso es sintetizar los hallazgos en un informe, que pueda ser manejado por los interesados, como autoridades locales, empresas turísticas o grupos comunitarios, para tomar decisiones sobre el desarrollo y promoción del turismo.
 
     p.mb-5(data-aos="fade-left") El trabajo de campo es clave para obtener una visión real y completa de la situación turística de un lugar, permitiendo diseñar estrategias adecuadas y basadas en la realidad local.
@@ -490,31 +490,31 @@
                 th Contribución
             tbody
               tr
-                td.text-bold.text-center Gobiernos locales y regionales
+                td.text-bold Gobiernos locales y regionales
                 td Planifican y regulan el territorio, integrando el turismo en la estrategia de desarrollo económico y social de la región.
                 td Ofrecen datos demográficos, económicos, ambientales y sociales, además de información sobre infraestructura y normativas locales.
               tr
-                td.text-bold.text-center Empresarios turísticos (hoteles, agencias, operadores y guías)
+                td.text-bold Empresarios turísticos (hoteles, agencias, operadores y guías)
                 td Generan empleo, inversión y servicios, asegurando que el sector privado esté representado en el diagnóstico.
                 td Aportan datos sobre demanda, necesidades de infraestructura y áreas de mejora en la experiencia del visitante.
               tr
-                td.text-bold.text-center Comunidad local
+                td.text-bold Comunidad local
                 td Impactada directamente por el turismo, asegura que el desarrollo turístico respete tradiciones y necesidades.
                 td Conocimientos locales sobre historia, cultura y patrimonio, e identificación de áreas que necesitan protección o mejora.
               tr
-                td.text-bold.text-center Organizaciones no gubernamentales y asociaciones civiles
+                td.text-bold Organizaciones no gubernamentales y asociaciones civiles
                 td Representan intereses específicos, como conservación ambiental y promoción cultural, para un turismo inclusivo y sostenible.
                 td Ofrecen estudios sobre impactos socioambientales y buenas prácticas en gestión turística.
               tr
-                td.text-bold.text-center Investigadores y académicos
+                td.text-bold Investigadores y académicos
                 td Aportan un enfoque técnico y metodológico para estudios de sostenibilidad y capacidad de carga.
                 td Proveen investigaciones sobre impactos del turismo, estrategias de mitigación y enfoques innovadores de gestión territorial.
               tr
-                td.text-bold.text-center Turistas
+                td.text-bold Turistas
                 td Aportan su percepción y comportamiento, esenciales para comprender la dinámica del destino y mejorar la oferta.
                 td Retroalimentación sobre la calidad de servicios, infraestructura y experiencia general del destino.
               tr
-                td.text-bold.text-center Entidades financieras e inversionistas
+                td.text-bold Entidades financieras e inversionistas
                 td Facilitan la inversión en infraestructura turística y aseguran la viabilidad económica de los proyectos.
                 td Información sobre tendencias de inversión, fuentes de financiamiento y viabilidad de proyectos turísticos.
 
