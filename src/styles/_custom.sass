@@ -74,9 +74,7 @@
   background-size: cover 
   background-repeat: no-repeat
   background-position: center
-  margin-inline: -3rem !important
-  @media (max-width: $bp-max-sm)
-    margin-inline: -1.5rem !important
+  
 .tarjeta--tabla
   background-color: #FEF7EB
 .tarjeta--tabla1
@@ -152,10 +150,7 @@
   background-size: cover 
   background-repeat: no-repeat
   background-position: center
-  margin-inline: -3rem !important
-  @media (max-width: $bp-max-sm)
-    margin-inline: -1.5rem !important
-  
+   
 
 .tarjeta.tarjeta--BG06
   background-image: url("../assets/curso/temas/BG06.png")
@@ -382,10 +377,69 @@
 
 // slyder f 
 .fa-chevron-right, .fa-chevron-left
-  color: #AF2323
+  color: #09614D
 
 
 //- tarjeta de deslizamiento arriba abajo 
+  // configuración para 4 tarjetas
+.tarjetas-upper
+  overflow: hidden
+  border-radius: 5px
+  position: relative
+  &_card
+    background: #09614D
+    h5
+      color: #fff
+    .fas.fa-caret-up 
+      color: #fff 
+    transition: bottom .3s ease-in-out
+    position: absolute
+    border-radius: 5px
+    width: 100%
+    height: 100%
+    left: 0
+    bottom: -82%
+    @media (min-width: $bp-min-xxl)
+      bottom: -89%
+    @media (max-width: $bp-max-xl)
+      bottom: -90%
+    @media (max-width: $bp-max-lg)
+      bottom: -87%
+    @media (max-width: $bp-max-md)
+      bottom: -92%
+    @media (max-width: $bp-max-sm)
+      bottom: -92%
+    @media (max-width: $bp-max-xs)
+      bottom: -91%
+    i:last-child
+      display: none
+  &:hover
+    .tarjetas-upper_card
+      background: #FFE9DF 
+      h5
+        color: #12263F !important
+      .fas.fa-caret-down 
+        color: #09614D 
+      bottom: -30%
+      @media (min-width: $bp-min-xxl)
+        bottom: -32%
+      @media (max-width: $bp-max-xl)
+        bottom: -47%
+      @media (max-width: $bp-max-lg)
+        bottom: -18%
+      @media (max-width: $bp-max-md)
+        bottom: -61%
+      @media (max-width: $bp-max-sm)
+        bottom: -62%
+      @media (max-width: $bp-max-xs)
+        bottom: -50%
+    i:first-child
+      display: none
+    i:last-child
+      display: block
+      
+
+// configuración para 3 tarjetas
 .tarjetas-up
   overflow: hidden
   border-radius: 5px
@@ -398,12 +452,16 @@
     height: 100%
     left: 0
     bottom: -82%
-    @media (max-width: $bp-max-lg)
-      bottom: -85%
-    @media (max-width: $bp-max-md)
-      bottom: -87%
-    @media (max-width: $bp-max-sm)
+    @media (min-width: $bp-min-xxl)
+      bottom: -89%
+    @media (max-width: $bp-max-xl)
       bottom: -90%
+    @media (max-width: $bp-max-lg)
+      bottom: -89%
+    @media (max-width: $bp-max-md)
+      bottom: -89%
+    @media (max-width: $bp-max-sm)
+      bottom: -89%
     @media (max-width: $bp-max-xs)
       bottom: -87%
     i:last-child
@@ -411,16 +469,18 @@
   &:hover
     .tarjetas-up_card
       bottom: -30%
+      @media (min-width: $bp-min-xxl)
+        bottom: -32%
       @media (max-width: $bp-max-xl)
-        bottom: -35%
-      @media (max-width: $bp-max-lg)
-        bottom: -30%
-      @media (max-width: $bp-max-md)
         bottom: -47%
+      @media (max-width: $bp-max-lg)
+        bottom: -40%
+      @media (max-width: $bp-max-md)
+        bottom: -40%
       @media (max-width: $bp-max-sm)
-        bottom: -38%
+        bottom: -40%
       @media (max-width: $bp-max-xs)
-        bottom: -20%
+        bottom: -21%
     i:first-child
       display: none
     i:last-child

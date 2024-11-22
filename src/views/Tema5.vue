@@ -40,7 +40,7 @@
                 th Método
                 th Descripción
             tbody
-              tr
+              tr(style="background-color: #F6F6F6; width: 20%")
                 td.text-bold Introducción
                 td 
                   ul.lista-ul
@@ -66,7 +66,7 @@
                     li.mb-0 
                       i.lista-ul__vineta
                       p.mb-0 <b>Características geográficas y climáticas</b>: describir el entorno natural, relieve, clima, biodiversidad, entre otros.
-              tr
+              tr(style="background-color: #F6F6F6; width: 20%")
                 td.text-bold Oferta turística 
                 td 
                   ul.lista-ul
@@ -92,7 +92,7 @@
                     li.mb-0 
                       i.lista-ul__vineta
                       p.mb-0 <b>Tendencias de demanda</b>: análisis de las tendencias actuales y potenciales en el número de visitantes.
-              tr
+              tr(style="background-color: #F6F6F6; width: 20%")
                 td.text-bold Análisis FODA
                 td 
                   ul.lista-ul
@@ -121,7 +121,7 @@
                     li.mb-0 
                       i.lista-ul__vineta
                       p.mb-0 <b>Sostenibilidad</b>: evaluación de cómo el turismo afecta al medio ambiente y la cultura local. Estrategias de turismo sostenible.
-              tr
+              tr(style="background-color: #F6F6F6; width: 20%")
                 td.text-bold Competencia
                 td 
                   ul.lista-ul
@@ -141,7 +141,7 @@
                     li.mb-0 
                       i.lista-ul__vineta
                       p.mb-0 <b>Recomendaciones</b>: sugerencias para mejorar la oferta turística, infraestructura, <em>marketing</em>, sostenibilidad, entre otros aspectos.
-              tr
+              tr(style="background-color: #F6F6F6; width: 20%")
                 td.text-bold Plan de acción (opcional)
                 td 
                   ul.lista-ul
@@ -195,7 +195,7 @@
     p.mb-5(data-aos="fade-left") La recolección de información turística es un proceso esencial para entender las preferencias, comportamientos y necesidades de los turistas, así como para la planificación y desarrollo de destinos turísticos. A continuación, se detallan algunos procedimientos comunes en la recolección de esta información:
 
     .tarjeta.tarjeta--BG10.p-4.mb-5(data-aos="flip-up")
-      .tarjeta.tarjeta--blanca
+      .tarjeta.tarjeta--blanca.p-md-5.p-4
         SlyderA(tipo="b")
           .row.justify-content-center.p-4
             .col-lg-6.order-lg-1.order-2
@@ -335,7 +335,7 @@
     p.mb-5(data-aos="fade-left") Para llevar a cabo una recolección de información turística efectiva, es fundamental contar con herramientas tecnológicas que faciliten el proceso y optimicen los resultados. Estas herramientas permiten no solo la recolección, sino también el análisis y la interpretación de los datos, garantizando así que la información obtenida sea útil y pertinente para la toma de decisiones estratégicas. A continuación, se presentan algunas herramientas tecnológicas adicionales que pueden ser de gran ayuda en este contexto:
 
     .row.justify-content-center.mb-5(data-aos="flip-up")
-      .col-xl-4.col-lg-3.col-sm-10.mb-xl-0.mb-4(data-aos="fade-right")
+      .col-xxl-4.col-lg-6.col-sm-10.col-md-8.mb-xxl-0.mb-4(data-aos="fade-right")
         .tarjetas-up(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
           img(src='@/assets/curso/temas/tema5/img14.svg' alt="Imagen decorativa")
@@ -347,7 +347,7 @@
               h5.mb-0 <em>Software</em> de encuestas
             p.text-center.mb-0.px-3 Plataformas como Google Forms, SurveyMonkey y Qualtrics permiten crear y distribuir encuestas de manera sencilla, recopilando datos tanto cuantitativos como cualitativos de los turistas.
 
-      .col-xl-4.col-lg-3.col-sm-10.mb-xl-0.mb-4(data-aos="fade-right")
+      .col-xxl-4.col-lg-6.col-sm-10.col-md-8.mb-xxl-0.mb-4(data-aos="fade-right")
         .tarjetas-up(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
           img(src='@/assets/curso/temas/tema5/img15.svg' alt="Imagen decorativa")
@@ -359,7 +359,7 @@
               h5.mb-0 Plataformas de análisis de redes sociales
             p.text-center.mb-0.px-3 Estas herramientas son esenciales para estudiar reseñas y comentarios en sitios como TripAdvisor, Yelp y redes sociales, lo que proporciona una visión valiosa sobre la percepción del destino y sus servicios.
 
-      .col-xl-4.col-lg-3.col-sm-10.mb-xl-0.mb-4(data-aos="fade-right")
+      .col-xxl-4.col-lg-6.col-sm-10.col-md-8.mb-xxl-0.mb-4(data-aos="fade-right")
         .tarjetas-up(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
           img(src='@/assets/curso/temas/tema5/img16.svg' alt="Imagen decorativa")
@@ -401,7 +401,7 @@
                 th Actividad
                 th Descripción
             tbody
-              tr
+              tr(style="background-color: #F6F6F6; width: 20%")
                 td.text-bold Definición de objetivos
                 td Establecer qué tipo de información se necesita y con qué propósito (mejora de servicios, promoción turística, análisis del comportamiento de los turistas, etc.).                  
               tr
@@ -424,7 +424,7 @@
                     li.mb-0 
                       i.lista-ul__vineta
                       p.mb-0 <b>Análisis de documentos y fuentes locales</b>: revisión de documentos de instituciones turísticas, estadísticas locales, y materiales promocionales.
-              tr
+              tr(style="background-color: #F6F6F6; width: 20%")
                 td.text-bold Selección del lugar de trabajo
                 td El lugar o los lugares a estudiar dependerán del objetivo del proyecto. Puede ser una región turística, una ciudad en particular, un sitio específico (como un parque natural o una playa), o un área más extensa.
               tr
@@ -444,7 +444,7 @@
                     li.mb-0 
                       i.lista-ul__vineta
                       p.mb-0 Observación de la infraestructura turística (hoteles, restaurantes, centros de información, transporte, entre otros).
-              tr
+              tr(style="background-color: #F6F6F6; width: 20%")
                 td.text-bold Registro y organización de los datos
                 td 
                   p.mb-3 Es esencial organizar la información de manera clara y sistemática. Para las encuestas, puede ser útil utilizar <b><em>software</em></b> para la creación de bases de datos (como Excel, Google Sheets o herramientas especializadas en análisis de encuestas).
@@ -452,7 +452,7 @@
               tr
                 td.text-bold Análisis de los datos
                 td Después de la recolección, se analizan los datos para identificar patrones, fortalezas y áreas de mejora en el destino turístico. Los análisis pueden ser cualitativos (análisis de contenido) o cuantitativos (estadísticas descriptivas).
-              tr
+              tr(style="background-color: #F6F6F6; width: 20%")
                 td.text-bold Elaboración de Informes
                 td El último paso es sintetizar los hallazgos en un informe, que pueda ser manejado por los interesados, como autoridades locales, empresas turísticas o grupos comunitarios, para tomar decisiones sobre el desarrollo y promoción del turismo.
 
@@ -489,7 +489,7 @@
                 th Rol
                 th Contribución
             tbody
-              tr
+              tr(style="background-color: #F6F6F6; width: 20%")
                 td.text-bold Gobiernos locales y regionales
                 td Planifican y regulan el territorio, integrando el turismo en la estrategia de desarrollo económico y social de la región.
                 td Ofrecen datos demográficos, económicos, ambientales y sociales, además de información sobre infraestructura y normativas locales.
@@ -497,7 +497,7 @@
                 td.text-bold Empresarios turísticos (hoteles, agencias, operadores y guías)
                 td Generan empleo, inversión y servicios, asegurando que el sector privado esté representado en el diagnóstico.
                 td Aportan datos sobre demanda, necesidades de infraestructura y áreas de mejora en la experiencia del visitante.
-              tr
+              tr(style="background-color: #F6F6F6; width: 20%")
                 td.text-bold Comunidad local
                 td Impactada directamente por el turismo, asegura que el desarrollo turístico respete tradiciones y necesidades.
                 td Conocimientos locales sobre historia, cultura y patrimonio, e identificación de áreas que necesitan protección o mejora.
@@ -505,7 +505,7 @@
                 td.text-bold Organizaciones no gubernamentales y asociaciones civiles
                 td Representan intereses específicos, como conservación ambiental y promoción cultural, para un turismo inclusivo y sostenible.
                 td Ofrecen estudios sobre impactos socioambientales y buenas prácticas en gestión turística.
-              tr
+              tr(style="background-color: #F6F6F6; width: 20%")
                 td.text-bold Investigadores y académicos
                 td Aportan un enfoque técnico y metodológico para estudios de sostenibilidad y capacidad de carga.
                 td Proveen investigaciones sobre impactos del turismo, estrategias de mitigación y enfoques innovadores de gestión territorial.
@@ -513,7 +513,7 @@
                 td.text-bold Turistas
                 td Aportan su percepción y comportamiento, esenciales para comprender la dinámica del destino y mejorar la oferta.
                 td Retroalimentación sobre la calidad de servicios, infraestructura y experiencia general del destino.
-              tr
+              tr(style="background-color: #F6F6F6; width: 20%")
                 td.text-bold Entidades financieras e inversionistas
                 td Facilitan la inversión en infraestructura turística y aseguran la viabilidad económica de los proyectos.
                 td Información sobre tendencias de inversión, fuentes de financiamiento y viabilidad de proyectos turísticos.
@@ -568,49 +568,94 @@
     p.mb-5(data-aos="fade-left") La demanda turística se compone de los visitantes actuales y potenciales del destino. Este análisis debe enfocarse en varios aspectos clave:
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
-      .col-lg-3.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-4
-        figure
-          img(src='@/assets/curso/temas/tema5/img23.png', alt='Imagen decorativa')
-      .col-lg-9.col-12.order-lg-1.order-2 
-        TabsA.color-acento-botones
-          .tarjeta.color-primario.p-4(titulo="Perfil del turista")
-            ul.lista-ul
-              li.mb-0 
-                i.lista-ul__vineta
-                p.mb-3 <b>Demografía</b>: edad, genero, nivel educativo, ocupación, origen geográfico, entre otros.
-              li.mb-0 
-                i.lista-ul__vineta
-                p.mb-3 <b>Motivos de viaje</b>: ocio, negocios, salud, estudios, entre otros.
-              li.mb-0 
-                i.lista-ul__vineta
-                p.mb-0 <b>Comportamiento del turista</b>: gasto promedio, duración de la estadía, tipo de alojamiento utilizado, medios de transporte preferidos y actividades mas frecuentes.
+      .col-lg-10.col-12
+        .row.justify-content-center.align-items-center
+          .col-lg-4.col-8.col-md-6.order-lg-2.order-1.mb-lg-0.mb-4
+            figure
+              img(src='@/assets/curso/temas/tema5/img23.png', alt='Imagen decorativa')     
+          .col-lg-8.col-12.mb-md-0.order-lg-1.order-2.mb-lg-0
+            LineaTiempoD.color-acento-botones.especial
+              p(numero="1" titulo="Perfil del turista") 
+                ul.lista-ul
+                  li.mb-0 
+                    i.lista-ul__vineta
+                    p.mb-3 <b>Demografía</b>: edad, genero, nivel educativo, ocupación, origen geográfico, entre otros.
+                  li.mb-0 
+                    i.lista-ul__vineta
+                    p.mb-3 <b>Motivos de viaje</b>: ocio, negocios, salud, estudios, entre otros.
+                  li.mb-0 
+                    i.lista-ul__vineta
+                    p.mb-0 <b>Comportamiento del turista</b>: gasto promedio, duración de la estadía, tipo de alojamiento utilizado, medios de transporte preferidos y actividades mas frecuentes.
+              p(numero="2" titulo="Estacionalidad") 
+                ul.lista-ul
+                  li.mb-0 
+                    i.lista-ul__vineta
+                    p.mb-3 <b>Periodos de mayor y menor afluencia</b>: identificar las épocas del año en que el destino recibe más turistas.
+                  li.mb-0 
+                    i.lista-ul__vineta
+                    p.mb-3 <b>Factores que influyen en la estacionalidad</b>: vacaciones, festivales, eventos, clima, entre otros.
 
-          .tarjeta.color-primario.p-4(titulo="Estacionalidad")
-            ul.lista-ul
-              li.mb-0 
-                i.lista-ul__vineta
-                p.mb-3 <b>Periodos de mayor y menor afluencia</b>: identificar las épocas del año en que el destino recibe más turistas.
-              li.mb-0 
-                i.lista-ul__vineta
-                p.mb-0 <b>Factores que influyen en la estacionalidad</b>: vacaciones, festivales, eventos, clima, entre otros.
+              p(numero="3" titulo="Satisfacción y expectativas del turista") 
+                ul.lista-ul
+                  li.mb-0 
+                    i.lista-ul__vineta
+                    p.mb-3 <b>Evaluación de la experiencia</b>: mediante encuestas o análisis de opiniones en línea para comprender la percepción de los turistas sobre su experiencia en el destino.
+                  li.mb-0 
+                    i.lista-ul__vineta
+                    p.mb-3 <b>Preferencias y necesidades</b>: aspectos que los turistas consideran importantes, como la calidad de los servicios, accesibilidad y seguridad.
+              p(numero="4" titulo="Tendencias en la demanda turística") 
+                ul.lista-ul
+                  li.mb-0 
+                    i.lista-ul__vineta
+                    p.mb-3 <b>Cambios en el comportamiento</b>: nuevas tendencias como ecoturismo, turismo de aventura o turismo rural.
+                  li.mb-0 
+                    i.lista-ul__vineta
+                    p.mb-3 <b>Mercados emergentes</b>: análisis de nuevos mercados que podrían ser atractivos para el destino.
 
-          .tarjeta.color-primario.p-4(titulo="Satisfacción y expectativas del turista")
-            ul.lista-ul
-              li.mb-0 
-                i.lista-ul__vineta
-                p.mb-3 <b>Evaluación de la experiencia</b>: mediante encuestas o análisis de opiniones en línea para comprender la percepción de los turistas sobre su experiencia en el destino.
-              li.mb-0 
-                i.lista-ul__vineta
-                p.mb-0 <b>Preferencias y necesidades</b>: aspectos que los turistas consideran importantes, como la calidad de los servicios, accesibilidad y seguridad.
+    //- .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
+    //-   .col-lg-3.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-4
+    //-     figure
+    //-       img(src='@/assets/curso/temas/tema5/img23.png', alt='Imagen decorativa')
+    //-   .col-lg-9.col-12.order-lg-1.order-2 
+    //-     TabsA.color-acento-botones
+    //-       .tarjeta.color-primario.p-4(titulo="Perfil del turista")
+    //-         ul.lista-ul
+    //-           li.mb-0 
+    //-             i.lista-ul__vineta
+    //-             p.mb-3 <b>Demografía</b>: edad, genero, nivel educativo, ocupación, origen geográfico, entre otros.
+    //-           li.mb-0 
+    //-             i.lista-ul__vineta
+    //-             p.mb-3 <b>Motivos de viaje</b>: ocio, negocios, salud, estudios, entre otros.
+    //-           li.mb-0 
+    //-             i.lista-ul__vineta
+    //-             p.mb-0 <b>Comportamiento del turista</b>: gasto promedio, duración de la estadía, tipo de alojamiento utilizado, medios de transporte preferidos y actividades mas frecuentes.
 
-          .tarjeta.color-primario.p-4(titulo="Tendencias en la demanda turística")
-            ul.lista-ul
-              li.mb-0 
-                i.lista-ul__vineta
-                p.mb-3 <b>Cambios en el comportamiento</b>: nuevas tendencias como ecoturismo, turismo de aventura o turismo rural.
-              li.mb-0 
-                i.lista-ul__vineta
-                p.mb-0 <b>Mercados emergentes</b>: análisis de nuevos mercados que podrían ser atractivos para el destino.
+    //-       .tarjeta.color-primario.p-4(titulo="Estacionalidad")
+    //-         ul.lista-ul
+    //-           li.mb-0 
+    //-             i.lista-ul__vineta
+    //-             p.mb-3 <b>Periodos de mayor y menor afluencia</b>: identificar las épocas del año en que el destino recibe más turistas.
+    //-           li.mb-0 
+    //-             i.lista-ul__vineta
+    //-             p.mb-0 <b>Factores que influyen en la estacionalidad</b>: vacaciones, festivales, eventos, clima, entre otros.
+
+    //-       .tarjeta.color-primario.p-4(titulo="Satisfacción y expectativas del turista")
+    //-         ul.lista-ul
+    //-           li.mb-0 
+    //-             i.lista-ul__vineta
+    //-             p.mb-3 <b>Evaluación de la experiencia</b>: mediante encuestas o análisis de opiniones en línea para comprender la percepción de los turistas sobre su experiencia en el destino.
+    //-           li.mb-0 
+    //-             i.lista-ul__vineta
+    //-             p.mb-0 <b>Preferencias y necesidades</b>: aspectos que los turistas consideran importantes, como la calidad de los servicios, accesibilidad y seguridad.
+
+    //-       .tarjeta.color-primario.p-4(titulo="Tendencias en la demanda turística")
+    //-         ul.lista-ul
+    //-           li.mb-0 
+    //-             i.lista-ul__vineta
+    //-             p.mb-3 <b>Cambios en el comportamiento</b>: nuevas tendencias como ecoturismo, turismo de aventura o turismo rural.
+    //-           li.mb-0 
+    //-             i.lista-ul__vineta
+    //-             p.mb-0 <b>Mercados emergentes</b>: análisis de nuevos mercados que podrían ser atractivos para el destino.
 
     .titulo.mb-5(data-aos="flip-up")
       img(src='@/assets/curso/temas/ico.svg', alt='Imagen decorativa')
@@ -741,9 +786,9 @@
 
     p.mb-5(data-aos="fade-left") A continuación, se presentan los pasos a seguir para realizar esta sistematización: 
 
-    .tarjeta.tarjeta--BG11.p-4.mb-5(data-aos="flip-up")
+    .tarjeta.tarjeta--BG11.p-4.mb-5.p-md-5(data-aos="flip-up")
       SlyderA(tipo="b")
-        .row.justify-content-center.ali
+        .row.justify-content-center
           .col-lg-7.order-lg-1.order-2
             h4 Recolección de información
             ul.lista-ul

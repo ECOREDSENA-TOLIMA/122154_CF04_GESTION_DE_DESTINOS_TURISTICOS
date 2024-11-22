@@ -245,13 +245,13 @@ export default {
         titulo: 'Seguridad',
         texto:
           'Se implementan estrategias para garantizar la seguridad de los turistas, trabajando en coordinación con entidades locales y nacionales. ',
-        imagen: require('@/assets/curso/temas/tema4/img15.png'),
+        imagen: require('@/assets/curso/temas/tema4/img23.png'),
       },
       {
         titulo: 'Alianzas público-privadas',
         texto:
           'Se promueven colaboraciones entre el sector público y privado para desarrollar proyectos turísticos que beneficien a ambas partes y a la comunidad en general.',
-        imagen: require('@/assets/curso/temas/tema4/img15.png'),
+        imagen: require('@/assets/curso/temas/tema4/img24.png'),
       },
     ],
   }),

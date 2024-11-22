@@ -14,11 +14,11 @@
     p.mb-5(data-aos="fade-left") El diagnóstico territorial es un proceso de análisis exhaustivo que tiene como objetivo evaluar las características y condiciones de un territorio en términos sociales, económicos, ambientales, y culturales. Este tipo de diagnóstico se utiliza para comprender las dinámicas de un área específica, identificar problemas, potencialidades, riesgos, y oportunidades, y así facilitar la toma de decisiones en la planificación del desarrollo territorial. A continuación, se describen los componentes principales del diagnóstico territorial: 
 
     .row.justify-content-center.mb-5(data-aos="flip-up")
-      .col-xl-3.col-lg-3.col-sm-10.col-md-9.mb-xl-0.mb-4(data-aos="fade-right")
-        .tarjetas-up(@mouseover="mostrarIndicador = false")
+      .col-xxl-3.col-lg-4.col-sm-10.col-md-8.mb-xxl-0.mb-4(data-aos="fade-right")
+        .tarjetas-upper(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
           img(src='@/assets/curso/temas/tema2/img02.svg' alt="Imagen decorativa")
-          .tarjetas-up_card.BG04
+          .tarjetas-upper_card
             .title.d-flex.align-items-center.justify-content-center.mb-4
               span
                 i.fas.fa-caret-up.fa-2x.me-3
@@ -26,11 +26,11 @@
               h5.mb-0 Diagnóstico físico-ambiental
             p.text-center.mb-0.px-2 Evalúa las condiciones naturales del territorio, como el clima, la geografía, los suelos, la biodiversidad y los recursos hídricos. También analiza los riesgos ambientales, como desastres naturales o degradación de recursos.
 
-      .col-xl-3.col-lg-3.col-sm-10.col-md-9.mb-xl-0.mb-4(data-aos="fade-right")
-        .tarjetas-up(@mouseover="mostrarIndicador = false")
+      .col-xxl-3.col-lg-4.col-sm-10.col-md-8.mb-xxl-0.mb-4(data-aos="fade-right")
+        .tarjetas-upper(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
           img(src='@/assets/curso/temas/tema2/img03.svg' alt="Imagen decorativa")
-          .tarjetas-up_card.BG04
+          .tarjetas-upper_card
             .title.d-flex.align-items-center.justify-content-center.mb-4
               span
                 i.fas.fa-caret-up.fa-2x.me-3
@@ -38,23 +38,23 @@
               h5.mb-0 Diagnóstico socioeconómico
             p.text-center.mb-0.px-2 Analiza la estructura social y económica, incluyendo aspectos como el empleo, los ingresos, los servicios públicos (salud, educación, transporte, entre otros), las actividades productivas y la distribución de la riqueza.
 
-      .col-xl-3.col-lg-3.col-sm-10.col-md-9.mb-xl-0.mb-4(data-aos="fade-right")
-        .tarjetas-up(@mouseover="mostrarIndicador = false")
+      .col-xxl-3.col-lg-4.col-sm-10.col-md-8.mb-xxl-0.mb-4(data-aos="fade-right")
+        .tarjetas-upper(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
           img(src='@/assets/curso/temas/tema2/img04.svg' alt="Imagen decorativa")
-          .tarjetas-up_card.BG04
+          .tarjetas-upper_card
             .title.d-flex.align-items-center.justify-content-center.mb-4
               span
-                i.fas.fa-caret-up.fa-2x.me-3
-                i.fas.fa-caret-down.fa-2x.me-3
+                i.fas.fa-caret-up.fa-2x.me-2
+                i.fas.fa-caret-down.fa-2x.me-2
               h5.mb-0 Diagnóstico político-institucional
             p.text-center.mb-0.px-2 Estudia el marco legal, las políticas públicas y la capacidad institucional del territorio. Analiza cómo las instituciones locales, regionales o nacionales interactúan con la población y el territorio.
 
-      .col-xl-3.col-lg-3.col-sm-10.col-md-9.mb-xl-0.mb-4(data-aos="fade-right")
-        .tarjetas-up(@mouseover="mostrarIndicador = false")
+      .col-xxl-3.col-lg-4.col-sm-10.col-md-8.mb-xxl-0.mb-4(data-aos="fade-right")
+        .tarjetas-upper(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
           img(src='@/assets/curso/temas/tema2/img05.svg' alt="Imagen decorativa")
-          .tarjetas-up_card.BG04
+          .tarjetas-upper_card
             .title.d-flex.align-items-center.justify-content-center.mb-4
               span
                 i.fas.fa-caret-up.fa-2x.me-3
@@ -262,7 +262,7 @@
             figure
               img(src='@/assets/curso/temas/tema2/img15.png', alt='Imagen decorativa')
           .col-lg-8.col-12
-            .cajon.cajon.p-4.mb-3
+            .cajon.cajon1.p-4.mb-3
               ul.lista-ul
                 li 
                   i.fas.fa-angle-right
@@ -302,7 +302,7 @@
                 th Descripción
                 th Aplicación
             tbody
-              tr
+              tr(style="background-color: #F6F6F6; width: 20%")
                 td.text-bold Análisis FODA (Fortalezas, Oportunidades, Debilidades y Amenazas)
                 td Es un método utilizado para identificar las fortalezas internas del territorio, así como sus debilidades. también se analizan las oportunidades y amenazas externas.
                 td Permite a las autoridades locales y a los planificadores entender los factores que pueden influir en el desarrollo sostenible del territorio.
@@ -310,7 +310,7 @@
                 td.text-bold Cartografía participativa
                 td Consiste en la creación de mapas por parte de las comunidades locales para representar su conocimiento del territorio, sus recursos y sus problemas.
                 td Utilizado en la gestión territorial comunitaria, permite involucrar a los actores locales en el diagnóstico.
-              tr
+              tr(style="background-color: #F6F6F6; width: 20%")
                 td.text-bold Análisis SIG (Sistemas de Información Geográfica)
                 td Herramienta digital que permite recopilar, analizar y visualizar datos espaciales y geográficos del territorio.
                 td Se usa para estudiar patrones de uso del suelo, recursos naturales, infraestructura y otras variables espaciales que afectan el territorio.
@@ -318,7 +318,7 @@
                 td.text-bold Encuestas y entrevistas
                 td Recolección de datos cualitativos y cuantitativos a través de encuestas o entrevistas a actores clave en el territorio (residentes, líderes comunitarios, empresarios, etc.).
                 td Permite obtener información directa sobre la percepción de los problemas, necesidades y oportunidades en el territorio.
-              tr
+              tr(style="background-color: #F6F6F6; width: 20%")
                 td.text-bold Evaluación Ambiental Estratégica (EAE)
                 td Es un proceso sistemático para evaluar los impactos ambientales de políticas, planes o programas en un territorio.
                 td Garantiza que los aspectos ambientales se consideren desde el inicio en la toma de decisiones.
@@ -326,7 +326,7 @@
                 td.text-bold Análisis de Redes Sociales (ARS)
                 td Herramienta que estudia las relaciones e interacciones entre los actores del territorio, como organizaciones, instituciones y grupos sociales.
                 td Permite identificar líderes, relaciones de poder y cooperación dentro del territorio.
-              tr
+              tr(style="background-color: #F6F6F6; width: 20%")
                 td.text-bold Análisis de Capacidad de Carga
                 td Se utiliza para evaluar la capacidad del territorio para sostener cierta cantidad de población o actividades sin causar deterioro ambiental o social.
                 td Fundamental para la planificación sostenible y la gestión de recursos.
@@ -334,7 +334,7 @@
                 td.text-bold Mapeo de conflictos
                 td Identificación y análisis de conflictos existentes o potenciales en el uso y gestión del territorio, como disputas por el uso de la tierra o acceso a recursos.
                 td Útil para la mediación y resolución de conflictos.
-              tr
+              tr(style="background-color: #F6F6F6; width: 20%")
                 td.text-bold Talleres participativos
                 td Reuniones con actores locales para discutir problemas y soluciones territoriales.
                 td Promueve la participación activa de la comunidad en la construcción de diagnósticos y soluciones
