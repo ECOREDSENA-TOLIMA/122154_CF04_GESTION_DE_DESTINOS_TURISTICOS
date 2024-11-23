@@ -37,8 +37,8 @@
           table
             thead
               tr
-                th Método
-                th Descripción
+                th(style="width: 20%") Método
+                th(style="width: 80%") Descripción
             tbody
               tr(style="background-color: #F6F6F6; width: 20%")
                 td.text-bold Introducción
@@ -194,8 +194,8 @@
 
     p.mb-5(data-aos="fade-left") La recolección de información turística es un proceso esencial para entender las preferencias, comportamientos y necesidades de los turistas, así como para la planificación y desarrollo de destinos turísticos. A continuación, se detallan algunos procedimientos comunes en la recolección de esta información:
 
-    .tarjeta.tarjeta--BG10.p-4.mb-5(data-aos="flip-up")
-      .tarjeta.tarjeta--blanca.p-md-5.p-4
+    .tarjeta.tarjeta--BG10.p-md-5.p-4.mb-5(data-aos="flip-up")
+      .tarjeta.tarjeta--blanca.p-4
         SlyderA(tipo="b")
           .row.justify-content-center.p-4
             .col-lg-6.order-lg-1.order-2
@@ -398,8 +398,8 @@
           table
             thead
               tr
-                th Actividad
-                th Descripción
+                th(style="width: 20%") Actividad
+                th(style="width: 80%") Descripción
             tbody
               tr(style="background-color: #F6F6F6; width: 20%")
                 td.text-bold Definición de objetivos
@@ -485,9 +485,9 @@
           table
             thead
               tr
-                th Actor
-                th Rol
-                th Contribución
+                th(style= "width: 20%") Actor
+                th(style= "width: 40%") Rol
+                th(style= "width: 40%") Contribución
             tbody
               tr(style="background-color: #F6F6F6; width: 20%")
                 td.text-bold Gobiernos locales y regionales

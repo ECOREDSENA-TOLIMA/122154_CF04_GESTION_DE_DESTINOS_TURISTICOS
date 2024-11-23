@@ -143,7 +143,7 @@
             figure
               img(src='@/assets/curso/temas/tema4/img14.png', alt='Imagen decorativa')
 
-    .row.justify-content-center.mb-5(data-aos="flip-up")
+    .row.justify-content-center.p-md-5.p-4.mb-5(data-aos="flip-up")
       .tarjeta.tarjeta--BG08.p-4
         SlyderB.p-4(:datos="datosSlyder")
 

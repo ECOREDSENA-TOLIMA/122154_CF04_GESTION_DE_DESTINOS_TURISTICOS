@@ -298,11 +298,11 @@
           table
             thead
               tr
-                th Método
-                th Descripción
-                th Aplicación
+                th(style= "width: 20%") Método
+                th(style= "width: 40%") Descripción
+                th(style= "width: 40%") Aplicación
             tbody
-              tr(style="background-color: #F6F6F6; width: 20%")
+              tr(style="background-color: #F6F6F6")
                 td.text-bold Análisis FODA (Fortalezas, Oportunidades, Debilidades y Amenazas)
                 td Es un método utilizado para identificar las fortalezas internas del territorio, así como sus debilidades. también se analizan las oportunidades y amenazas externas.
                 td Permite a las autoridades locales y a los planificadores entender los factores que pueden influir en el desarrollo sostenible del territorio.
@@ -310,7 +310,7 @@
                 td.text-bold Cartografía participativa
                 td Consiste en la creación de mapas por parte de las comunidades locales para representar su conocimiento del territorio, sus recursos y sus problemas.
                 td Utilizado en la gestión territorial comunitaria, permite involucrar a los actores locales en el diagnóstico.
-              tr(style="background-color: #F6F6F6; width: 20%")
+              tr(style="background-color: #F6F6F6")
                 td.text-bold Análisis SIG (Sistemas de Información Geográfica)
                 td Herramienta digital que permite recopilar, analizar y visualizar datos espaciales y geográficos del territorio.
                 td Se usa para estudiar patrones de uso del suelo, recursos naturales, infraestructura y otras variables espaciales que afectan el territorio.
@@ -318,7 +318,7 @@
                 td.text-bold Encuestas y entrevistas
                 td Recolección de datos cualitativos y cuantitativos a través de encuestas o entrevistas a actores clave en el territorio (residentes, líderes comunitarios, empresarios, etc.).
                 td Permite obtener información directa sobre la percepción de los problemas, necesidades y oportunidades en el territorio.
-              tr(style="background-color: #F6F6F6; width: 20%")
+              tr(style="background-color: #F6F6F6")
                 td.text-bold Evaluación Ambiental Estratégica (EAE)
                 td Es un proceso sistemático para evaluar los impactos ambientales de políticas, planes o programas en un territorio.
                 td Garantiza que los aspectos ambientales se consideren desde el inicio en la toma de decisiones.
@@ -326,7 +326,7 @@
                 td.text-bold Análisis de Redes Sociales (ARS)
                 td Herramienta que estudia las relaciones e interacciones entre los actores del territorio, como organizaciones, instituciones y grupos sociales.
                 td Permite identificar líderes, relaciones de poder y cooperación dentro del territorio.
-              tr(style="background-color: #F6F6F6; width: 20%")
+              tr(style="background-color: #F6F6F6")
                 td.text-bold Análisis de Capacidad de Carga
                 td Se utiliza para evaluar la capacidad del territorio para sostener cierta cantidad de población o actividades sin causar deterioro ambiental o social.
                 td Fundamental para la planificación sostenible y la gestión de recursos.
@@ -334,7 +334,7 @@
                 td.text-bold Mapeo de conflictos
                 td Identificación y análisis de conflictos existentes o potenciales en el uso y gestión del territorio, como disputas por el uso de la tierra o acceso a recursos.
                 td Útil para la mediación y resolución de conflictos.
-              tr(style="background-color: #F6F6F6; width: 20%")
+              tr(style="background-color: #F6F6F6")
                 td.text-bold Talleres participativos
                 td Reuniones con actores locales para discutir problemas y soluciones territoriales.
                 td Promueve la participación activa de la comunidad en la construcción de diagnósticos y soluciones
