@@ -566,7 +566,7 @@
               
               p(numero="4" titulo="Bases de datos turísticas") Repositorios de información que contienen datos sobre infraestructura turística, alojamiento, y atracciones.
 
-              p(numero="4" titulo="Plataformas de redes sociales") Utilización de herramientas de análisis de datos para extraer tendencias y opiniones sobre destinos turísticos.
+              p(numero="5" titulo="Plataformas de redes sociales") Utilización de herramientas de análisis de datos para extraer tendencias y opiniones sobre destinos turísticos.
           .col-lg-6.col-8.col-md-6.order-lg-2.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/temas/tema3/img41.png', alt='Imagen decorativa')
