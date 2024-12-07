@@ -271,7 +271,7 @@ export default {
     {
       termino: 'Actores del turismo',
       significado:
-        'las personas, organizaciones y entidades que desempeñan un papel en la industria del turismo, interactuando y colaborando para ofrecer experiencias turísticas, Cada uno de estos actores juega un papel crucial en la dinámica del turismo, y su interacción determina el éxito y la sostenibilidad de la industria.',
+        'las personas, organizaciones y entidades que desempeñan un papel en la industria del turismo, interactuando y colaborando para ofrecer experiencias turísticas. Cada uno de estos actores juega un papel crucial en la dinámica del turismo, y su interacción determina el éxito y la sostenibilidad de la industria.',
     },
     {
       termino: 'Diagnóstico turístico',
