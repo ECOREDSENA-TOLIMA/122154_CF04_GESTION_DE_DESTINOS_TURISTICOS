@@ -337,7 +337,7 @@
               tr(style="background-color: #F6F6F6")
                 td.text-bold Talleres participativos
                 td Reuniones con actores locales para discutir problemas y soluciones territoriales.
-                td Promueve la participación activa de la comunidad en la construcción de diagnósticos y soluciones
+                td Promueve la participación activa de la comunidad en la construcción de diagnósticos y soluciones.
               tr
                 td.text-bold Análisis de riesgos
                 td Evaluación de los riesgos naturales, sociales o económicos que pueden afectar al territorio, como inundaciones, terremotos, pobreza, etc.

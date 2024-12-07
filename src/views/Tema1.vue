@@ -54,12 +54,14 @@
           .col-lg-2.col-6.mb-5.col-md-5
             figure
               img(src='@/assets/curso/temas/tema1/img03.png', alt='Imagen decorativa')
-          .col-lg-9.col-12
-            .bloque-texto-f.color-primario.pt-4.px-5.mb-5
-              .bloque-texto-f__comillas
-                i.fas.fa-quote-left
-                i.fas.fa-quote-right
-              p.text-regular.bloque-texto-f__texto.text-center <b>El artículo 286 de la Constitución</b> establece que "son entidades territoriales los departamentos, municipios, distritos y territorios indígenas, los cuales conforman los diferentes niveles de organización territorial de la república".
+          .col-lg-7.col-12
+            //- .bloque-texto-f.color-primario.pt-4.px-5.mb-5
+            //-   .bloque-texto-f__comillas
+            //-     i.fas.fa-quote-left
+            //-     i.fas.fa-quote-right
+            //-   p.text-regular.bloque-texto-f__texto.text-center <b>El artículo 286 de la Constitución</b> establece que "son entidades territoriales los departamentos, municipios, distritos y territorios indígenas, los cuales conforman los diferentes niveles de organización territorial de la república".
+            .cajon.cajon1.color-primario.p-4
+              p.mb-0 <b>El artículo 286 de la Constitución</b> establece que "son entidades territoriales los departamentos, municipios, distritos y territorios indígenas, los cuales conforman los diferentes niveles de organización territorial de la república".
 
     p.mb-5(data-aos="fade-left") El país, como territorio macro, está conformado por áreas terrestres (suelo y subsuelo), insulares y marítimas, dividido en seis regiones geográficas:
 

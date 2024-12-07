@@ -107,7 +107,7 @@
                       p.mb-0 <b>Debilidades</b>: aspectos que limitan el desarrollo turístico.
                     li.mb-0 
                       i.lista-ul__vineta
-                      p.mb-0 <b>TAmenazas</b>: factores externos que podrían afectar negativamente al turismo en el área.
+                      p.mb-0 <b>Amenazas</b>: factores externos que podrían afectar negativamente al turismo en el área.
               tr
                 td.text-bold Análisis socioeconómico
                 td 
@@ -183,7 +183,7 @@
               figure
                 img(src="@/assets/curso/temas/tema5/img03.svg", alt="Imagen decorativa").img100
             .col
-              p <b>En segundo lugar</b>, es esencial establecer un sistema de categorización y análisis de los datos recolectados. Los datos obtenidos deben organizarse en categorías como demografía, gasto turístico, satisfacción del cliente y opiniones sobre infraestructura, para su posterior análisis. Las herramientas tecnológicas, como bases de datos y <em>software</em> de análisis, facilitan la interpretación de grandes volúmenes de información
+              p <b>En segundo lugar</b>, es esencial establecer un sistema de categorización y análisis de los datos recolectados. Los datos obtenidos deben organizarse en categorías como demografía, gasto turístico, satisfacción del cliente y opiniones sobre infraestructura, para su posterior análisis. Las herramientas tecnológicas, como bases de datos y <em>software</em> de análisis, facilitan la interpretación de grandes volúmenes de información.
         .crd.crd--avatarHorizontal.crd--last.py-4
           .row.align-items-center
             .col-auto

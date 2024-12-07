@@ -230,7 +230,7 @@ export default {
     {
       tema: '1.  Territorio',
       referencia:
-        'García, J. L., Rodríguez, M. E., Pérez, S. A., & Muñoz, F. J. (2018). Gobernabilidad y gobernanza en Colombia: Perspectivas actuales.',
+        'Castro Buitrago, E. (2011). Aproximación al concepto de gobernanza en Colombia y algunos apuntes sobre su importancia en el derecho ambiental.',
       tipo: 'PDF web',
       link: 'https://www.redalyc.org/pdf/945/94522288003.pdf',
     },
@@ -402,7 +402,7 @@ export default {
     {
       referencia:
         'Instituto Geográfico Agustín Codazzi. (2020). Atlas de la distribución territorial de Colombia. IGAC.',
-      link: 'https://geoportal.igac.gov.co/',
+      link: '',
     },
     {
       referencia:
