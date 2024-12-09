@@ -244,7 +244,7 @@
           .tarjeta.color3.p-3(x="15.1%" y="58.5%" numero="+")
             p Examina las condiciones de vida de la población, incluyendo el empleo, los ingresos, el acceso a la educación, la salud y otros servicios.
           .tarjeta.color3.p-3(x="82.3%" y="23%" numero="+")
-            p Identifica a los actores clave que intervienen en el territorio (como el gobierno, ONG, empresas, comunidades) y analiza las dinámicas de poder entre ellos.
+            p Identifica a los actores clave que intervienen en el territorio (gobierno, ONG, empresas, comunidades) y analiza las dinámicas de poder entre ellos.
           .tarjeta.color3.p-3(x="83.6%" y="68.3%" numero="+")
             p Integra la información obtenida para crear un diagnóstico que brinde una visión clara de la situación del territorio y ofrezca recomendaciones para su desarrollo.
     
